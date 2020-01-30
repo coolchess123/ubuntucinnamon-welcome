@@ -287,7 +287,7 @@ if (current_page == 'index.html') {
         dd = 21;
         mm = 04;
         yyyy = 2018;
-        release = 'Ubuntu Budgie 18.04 LTS';
+        release = 'Ubuntu Cinnamon 18.04 LTS';
         specialEventCheck(dateAsNumber(dd, mm, yyyy) - 7, release + ' ' + project_release_future + ' ' + days_in + ' 7 ' + future_days, false, 'calendar');
         specialEventCheck(dateAsNumber(dd, mm, yyyy) - 6, release + ' ' + project_release_future + ' ' + days_in + ' 7 ' + future_days, false, 'calendar');
         specialEventCheck(dateAsNumber(dd, mm, yyyy) - 5, release + ' ' + project_release_future + ' ' + days_in + ' 7 ' + future_days, false, 'calendar');

@@ -3,11 +3,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-22 21:33+0000\n"
 "Last-Translator: mgrn <mgrnqo@gmail.com>, 2018\n"
-"Language-Team: Chinese (Taiwan) (https://www.transifex.com/ubuntu-budgie/teams/72251/zh_TW/)\n"
+"Language-Team: Chinese (Taiwan) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,8 +29,8 @@ msgstr "桌面布局"
 
 #: default.html:33
 msgid ""
-"There are several additional Budgie Desktop compatible themes available. "
-"Budgie Welcome provides a simple method to switch your desktop appearance "
+"There are several additional Cinnamon Desktop compatible themes available. "
+"Cinnamon Welcome provides a simple method to switch your desktop appearance "
 "(theme, fonts, icons, desktop wallpaper)."
 msgstr ""
 
@@ -79,7 +79,7 @@ msgid "Default"
 msgstr "預設"
 
 #: default.html:309
-msgid "Classic Budgie"
+msgid "Classic Cinnamon"
 msgstr ""
 
 #: default.html:321
@@ -104,5 +104,5 @@ msgid ""
 msgstr ""
 
 #: default.html:338
-msgid "Reset Budgie Panel"
-msgstr "重啟 Budgie 面板"
+msgid "Reset Cinnamon Panel"
+msgstr "重啟 Cinnamon 面板"

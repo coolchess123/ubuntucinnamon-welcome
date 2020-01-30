@@ -4,11 +4,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: David Mohammed <fossfreedom@ubuntu.com>, 2019\n"
-"Language-Team: English (United Kingdom) (https://www.transifex.com/ubuntu-budgie/teams/72251/en_GB/)\n"
+"Language-Team: English (United Kingdom) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/en_GB/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -135,8 +135,8 @@ msgid "Accessible to all, regardless of language and physical ability."
 msgstr "Accessible to all, regardless of language and physical ability."
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
-msgstr "Increase both Ubuntu and Budgie desktop user adoption."
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
+msgstr "Increase both Ubuntu and Cinnamon desktop user adoption."
 
 #: introduction.html:88
 msgid ""
@@ -205,12 +205,12 @@ msgstr ""
 "name\"></span> takes the Ubuntu base operating system and adds the"
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "Budgie desktop"
+msgid "Cinnamon desktop"
+msgstr "Cinnamon desktop"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Budgie Desktop"
+msgid "Cinnamon Desktop"
+msgstr "Cinnamon Desktop"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -278,10 +278,10 @@ msgstr "Settings"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 
 #: introduction.html:187
@@ -298,12 +298,12 @@ msgstr "Open Source"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
@@ -379,7 +379,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "
@@ -390,7 +390,7 @@ msgstr ""
 "employee of an organisation that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "

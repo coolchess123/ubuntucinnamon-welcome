@@ -4,11 +4,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Machiel Heinen, 2018\n"
-"Language-Team: Dutch (Netherlands) (https://www.transifex.com/ubuntu-budgie/teams/72251/nl_NL/)\n"
+"Language-Team: Dutch (Netherlands) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -136,9 +136,9 @@ msgid "Accessible to all, regardless of language and physical ability."
 msgstr "Toegankelijk voor iedereen, los van taal en fysiek vermogen."
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
 msgstr ""
-"Verhoog de acceptatie van Ubuntu en de Budgie bureaubladomgeving door "
+"Verhoog de acceptatie van Ubuntu en de Cinnamon bureaubladomgeving door "
 "gebruikers."
 
 #: introduction.html:88
@@ -208,12 +208,12 @@ msgstr ""
 "name\"></span> gebruikt de basis van Ubuntu en complementeert dat met de"
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "Budgie desktop"
+msgid "Cinnamon desktop"
+msgstr "Cinnamon desktop"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Budgie Desktop"
+msgid "Cinnamon Desktop"
+msgstr "Cinnamon Desktop"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -282,10 +282,10 @@ msgstr "Instellingen"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
-"De Budgie desktopomgeving biedt een intuïtieve en aantrekkelijke omgeving "
+"De Cinnamon desktopomgeving biedt een intuïtieve en aantrekkelijke omgeving "
 "die de traditionele look hanteert, wat betekent dat als je ooit gebruik hebt"
 " gemaakt van "
 
@@ -303,12 +303,12 @@ msgstr "Open Source"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"Wat Linux, Ubuntu en de Budgie desktopomgeving allemaal gemeen hebben, is "
+"Wat Linux, Ubuntu en de Cinnamon desktopomgeving allemaal gemeen hebben, is "
 "dat ze open source software zijn. Deze software kan geheel vrij worden "
 "gebruikt, gewijzigd en gedeeld (in aangepaste of originele vorm) door wie "
 "dan ook. Kortom: <span name=\"distro-name\"></span> is vrije software, in de"
@@ -387,7 +387,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "
@@ -398,7 +398,7 @@ msgstr ""
 "een medewerker van een bedrijf bent die het besturingssysteem gebruikt - "
 "pluk je de vruchten van de inspanningen van de ontwikkelaars die werken aan "
 "<span name=\"distro-name\"></span> en de gerelateerde projecten: Linux, "
-"Budgie Desktop en Ubuntu. Leden van de Linux en Open Source gemeenschap "
+"Cinnamon Desktop en Ubuntu. Leden van de Linux en Open Source gemeenschap "
 "draaien Linux op praktisch alle hardware, van de mooiste Macbook tot de "
 "goedkoopste netbook, van de nieuwste Chromebook tot de meeste gedateerde "
 "machines die ontworpen zijn voor Windows, van de meeste krachtige Internet "

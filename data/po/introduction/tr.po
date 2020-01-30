@@ -5,11 +5,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Bengünur <bengunur2@gmail.com>, 2019\n"
-"Language-Team: Turkish (https://www.transifex.com/ubuntu-budgie/teams/72251/tr/)\n"
+"Language-Team: Turkish (https://www.transifex.com/ubuntu-cinnamon/teams/72251/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -138,9 +138,9 @@ msgid "Accessible to all, regardless of language and physical ability."
 msgstr "Dil ve fiziksel yetenek ne olursa olsun herkese açık olmak."
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
 msgstr ""
-"Hem Ubuntu hem de Budgie masaüstü kullanıcılarının benimsenmesini arttırmak."
+"Hem Ubuntu hem de Cinnamon masaüstü kullanıcılarının benimsenmesini arttırmak."
 
 #: introduction.html:88
 msgid ""
@@ -209,12 +209,12 @@ msgstr ""
 "name\"></span> Ubuntu tabanlı işletim sistemidir ve ekledikleri "
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "Budgie masaüstü"
+msgid "Cinnamon desktop"
+msgstr "Cinnamon masaüstü"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Budgie Masaüstü"
+msgid "Cinnamon Desktop"
+msgstr "Cinnamon Masaüstü"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -282,10 +282,10 @@ msgstr "Ayarlar"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
-"Budgie masaüstü geleneksel metaforları kullanarak sezgisel ve çekici bir "
+"Cinnamon masaüstü geleneksel metaforları kullanarak sezgisel ve çekici bir "
 "masaüstü ortamı sağlamaktadır"
 
 #: introduction.html:187
@@ -302,15 +302,15 @@ msgstr "Açık Kaynak"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"Hepsinin ortak olduğu Linux, Ubuntu ve Budgie masaüstü açık kaynaktır. Bu "
+"Hepsinin ortak olduğu Linux, Ubuntu ve Cinnamon masaüstü açık kaynaktır. Bu "
 "yazılım serbestçe kullanılabilir, değiştirilebilir ve (değiştirilmiş veya "
 "değiştirilmemiş haliyle) herkes tarafından paylaşılabilir. Kısacası Ubuntu "
-"Budgie, kelimenin tam anlamıyla özgürdür."
+"Cinnamon, kelimenin tam anlamıyla özgürdür."
 
 #: introduction.html:209
 msgid ""
@@ -384,7 +384,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "
@@ -394,7 +394,7 @@ msgstr ""
 "veya uygulama geliştiricisi olun, ya da işletim sistemini kullanan bir "
 "organizasyonun çalışanı olun, Linux ve Açık Kaynak topluluğunun bir "
 "üyesisiniz ve <span name=\"distro-name\"></span> ve onun projelerine katkıda"
-" bulunan geliştiricilerin çabalarından yararlanıyorsunuz: Linux, Budgie "
+" bulunan geliştiricilerin çabalarından yararlanıyorsunuz: Linux, Cinnamon "
 "masaüstü ve Ubuntu. Topluluğun üyeleri, en güzel Macbook'tan en ucuz "
 "netbook'a, en yeni Chromebook'tan Windows için tasarlanmış çok eski "
 "makinelere ve en güçlü İnternet sunucularından en küçük akıllı termostata "

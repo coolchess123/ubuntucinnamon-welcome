@@ -3,11 +3,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Nicola Gentile <nikkognt@gmail.com>, 2019\n"
-"Language-Team: Italian (https://www.transifex.com/ubuntu-budgie/teams/72251/it/)\n"
+"Language-Team: Italian (https://www.transifex.com/ubuntu-cinnamon/teams/72251/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1316,15 +1316,15 @@ msgstr ""
 "sistemi operativi più diffusi l'aspetto grafico."
 
 #: gettingstarted.html:1019
-msgid "Budgie Desktop Settings"
-msgstr "Impostazioni di Budgie Desktop"
+msgid "Cinnamon Desktop Settings"
+msgstr "Impostazioni di Cinnamon Desktop"
 
 #: gettingstarted.html:1022
 msgid ""
-"<b>Budgie Desktop Settings</b> can be found later in the menu <b>System "
+"<b>Cinnamon Desktop Settings</b> can be found later in the menu <b>System "
 "Tools</b>."
 msgstr ""
-"<b>Impostazioni di Budgie Desktop</b> si possono essere trovate dopo nel "
+"<b>Impostazioni di Cinnamon Desktop</b> si possono essere trovate dopo nel "
 "menu <b>Strumenti di sistema</b>."
 
 #: gettingstarted.html1027, 1033
@@ -1359,13 +1359,13 @@ msgstr ""
 " Windows. Per la tastiera Mac, è il tasto ⌘ Command."
 
 #: gettingstarted.html:1059
-msgid "Budgie Desktop shortcuts"
-msgstr "Scorciatoie Budgie Desktop"
+msgid "Cinnamon Desktop shortcuts"
+msgstr "Scorciatoie Cinnamon Desktop"
 
 #: gettingstarted.html:1060
-msgid "Some common shortcuts used in Budgie Desktop"
+msgid "Some common shortcuts used in Cinnamon Desktop"
 msgstr ""
-"Alcuni tasti di scelta rapida comunemente utilizzati in Budgie Desktop"
+"Alcuni tasti di scelta rapida comunemente utilizzati in Cinnamon Desktop"
 
 #: gettingstarted.html:1070
 msgid "Open notifications in Raven"

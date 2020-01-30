@@ -1,73 +1,73 @@
 [main]
 host = https://www.transifex.com
 
-[budgie-welcome.budgie-applets]
-file_filter = data/po/budgie-applets/<lang>.po
-source_file = data/po/budgie-applets/budgie-applets.pot
+[ubuntucinnamon-welcome.cinnamon-applets]
+file_filter = data/po/cinnamon-applets/<lang>.po
+source_file = data/po/cinnamon-applets/cinnamon-applets.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.store]
+[ubuntucinnamon-welcome.store]
 file_filter = data/po/store/<lang>.po
 source_file = data/po/store/store.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.community]
+[ubuntucinnamon-welcome.community]
 file_filter = data/po/community/<lang>.po
 source_file = data/po/community/community.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.donate]
+[ubuntucinnamon-welcome.donate]
 file_filter = data/po/donate/<lang>.po
 source_file = data/po/donate/donate.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.features]
+[ubuntucinnamon-welcome.features]
 file_filter = data/po/features/<lang>.po
 source_file = data/po/features/features.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.getinvolved]
+[ubuntucinnamon-welcome.getinvolved]
 file_filter = data/po/getinvolved/<lang>.po
 source_file = data/po/getinvolved/getinvolved.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.index]
+[ubuntucinnamon-welcome.index]
 file_filter = data/po/index/<lang>.po
 source_file = data/po/index/index.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.introduction]
+[ubuntucinnamon-welcome.introduction]
 file_filter = data/po/introduction/<lang>.po
 source_file = data/po/introduction/introduction.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.recommendations]
+[ubuntucinnamon-welcome.recommendations]
 file_filter = data/po/recommendations/<lang>.po
 source_file = data/po/recommendations/recommendations.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.default]
+[ubuntucinnamon-welcome.default]
 file_filter = data/po/default/<lang>.po
 source_file = data/po/default/default.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.ubuntubudgiewelcome]
+[ubuntucinnamon-welcome.ubuntucinnamonwelcome]
 file_filter = po/<lang>.po
-source_file = po/budgie-welcome.pot
+source_file = po/ubuntucinnamon-welcome.pot
 source_lang = en_US
 type = PO
 
-[budgie-welcome.gettingstarted]
+[ubuntucinnamon-welcome.gettingstarted]
 file_filter = data/po/gettingstarted/<lang>.po
 source_file = data/po/gettingstarted/gettingstarted.pot
 source_lang = en_US

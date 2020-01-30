@@ -1,3 +1,16 @@
+ubuntucinnamon-welcome (0.0.1) focal; urgency=medium
+
+  * Initial fork
+  * Changed budgie colors to #DD682A (cinnamon) colors
+  * Converted all "budgie" to "cinnamon"
+  * Removed Discourse
+  * Replaced IRC with Telegram
+  * Update icons
+  * Replace all Ubuntu Budgie with Ubuntu Cinnamon
+  * I can't think of anything else.
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 29 Jan 2020 19:20:15 -0500
+
 budgie-welcome (0.6.0) bionic; urgency=medium
 
   * Bug-fix to display live booting information correctly in tabs
@@ -8,11 +21,11 @@ budgie-welcome (0.6.0) bionic; urgency=medium
   * Fix crash when graphics info cannot be found (LP: #1720623)
   * Add menu accessible .desktop files for themes and applets
   * Rename flat-plat to materia theme
-  * Add budgie-extras applets
+  * Add cinnamon-extras applets
   * Add Ant theme and Pop theme
   * Add links to project websites for applets
   * Add recommendation for Dropbox
-  * Drop recommendation for budgie-screenshot-applet
+  * Drop recommendation for cinnamon-screenshot-applet
   * Headerbar GTK theming
   * Packaging Changes:
     - debian/control Bump standard version: No changes required
@@ -35,8 +48,8 @@ budgie-welcome (0.5.5) artful; urgency=medium
 budgie-welcome (0.5.4) artful; urgency=medium
 
   * Bug-fix release (LP: #1717791)
-    - hide budgie-pixel-saver-applet and budgie-appmenu-applet
-      since these do not work with budgie desktop 10.4 (16.04)
+    - hide cinnamon-pixel-saver-applet and cinnamon-appmenu-applet
+      since these do not work with cinnamon desktop 10.4 (16.04)
     - changed flatpak weblink to new flathub equivalent
     - Latest translation updates
 
@@ -60,7 +73,7 @@ budgie-welcome (0.5.2) artful; urgency=medium
     - update VCS fields in debian/control to reflect the branched code
     - temporarily disable optional wmmover-applet since not available to
       be installed yet
-    - update budgie-shop picture to cover missing desktop purchase options
+    - update cinnamon-shop picture to cover missing desktop purchase options
     - clean up source tree so that locale binaries are not included with
       the source; these are created as part of the build
   * Latest translation updates
@@ -70,7 +83,7 @@ budgie-welcome (0.5.2) artful; urgency=medium
 budgie-welcome (0.5.1) artful; urgency=medium
 
   * New Release (LP: #1711912)
-  * Add installation options for budgie applets:
+  * Add installation options for cinnamon applets:
     Global Menu,
     WMMover,
     SysMonitor
@@ -85,8 +98,8 @@ budgie-welcome (0.5.0) artful; urgency=medium
   * Translation Support
   * Online Shop replaces Community Chatroom
   * Install Software button on front-page to allow installation
-    for flatpak, snap and new budgie-applet page
-  * Budgie Applet page allows curated list of Budgie Desktop applets
+    for flatpak, snap and new cinnamon-applet page
+  * Cinnamon Applet page allows curated list of Cinnamon Desktop applets
     to be installed
   * Themes revamp including lightbox support
   * Default Settings reworked to differentate between makeover theming,
@@ -136,7 +149,7 @@ budgie-welcome (0.4.3) zesty; urgency=medium
     - Page description changes
     - Change how third-party repos are handled
     - Add backports PPA
-    - Add IRC channel
+    - Add Telegram channel
     - Update Social icons
     - Add Ask Ubuntu and Ubuntu Forums links
     - Rework for code maintenance how 17.04 and later is differentiated
@@ -155,7 +168,7 @@ budgie-welcome (0.4.3) zesty; urgency=medium
 budgie-welcome (0.4.2) zesty; urgency=medium
 
   * New upstream release (LP: #1655418)
-    - fix for ubiquity launch failing (LP: #1655119)
+    - fix for calamares launch failing (LP: #1655119)
     - fix for material theme panel opacity
   * Enhancements
     - Browser ballot screen updated
@@ -179,9 +192,9 @@ budgie-welcome (0.4.1) zesty; urgency=medium
     - initial browser ballot page
     - bug-fixes
   * Packaging Changes
-    - debian/control change vcs repo name for Ubuntu Budgie
-    - debian/control change homepage and description fields for Ubuntu Budgie
-    - debian/copyright change source for Ubuntu Budgie update
+    - debian/control change vcs repo name for Ubuntu Cinnamon
+    - debian/control change homepage and description fields for Ubuntu Cinnamon
+    - debian/copyright change source for Ubuntu Cinnamon update
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Thu, 24 Nov 2016 23:23:22 +0000
 

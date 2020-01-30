@@ -14,7 +14,7 @@ msgstr ""
 "POT-Creation-Date: 2019-09-26 21:40+BST\n"
 "PO-Revision-Date: 2017-03-11 16:44+0000\n"
 "Last-Translator: Alfredo Altamirano <alfredo_11@hotmail.com>, 2019\n"
-"Language-Team: Spanish (https://www.transifex.com/ubuntu-budgie/teams/72251/"
+"Language-Team: Spanish (https://www.transifex.com/ubuntu-cinnamon/teams/72251/"
 "es/)\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: budgie-welcome:352
+#: ubuntucinnamon-welcome:352
 msgid ""
 "Steam is a third party package that requires user approval of EULA(End User "
 "License Agreement). So we rely on GNOME Software for installing steam and it "
@@ -35,7 +35,7 @@ msgstr ""
 "necesitamos GNOME Software, el cual no está instalado en el equipo, para "
 "instalar Steam. Instale GNOME Software y ejecute de nuevo esta opción"
 
-#: budgie-welcome:446
+#: ubuntucinnamon-welcome:446
 msgid ""
 "Seems that GNOME Software is not installed. If this problem persists even "
 "after installing GNOME Software, please contact us with following error "
@@ -45,20 +45,20 @@ msgstr ""
 "incluso después de instalarlo, póngase en contacto con nosotros y "
 "compártanos este mensaje de error"
 
-#: budgie-welcome:520
+#: ubuntucinnamon-welcome:520
 msgid "Following tasks are in progress"
 msgstr "Las tareas siguientes están en proceso"
 
-#: budgie-welcome:527 budgie-welcome:1611 budgie-welcome:1619
-#: budgie-welcome:2075
-msgid "Budgie Welcome"
-msgstr "Bienvenida de Budgie"
+#: ubuntucinnamon-welcome:527 ubuntucinnamon-welcome:1611 ubuntucinnamon-welcome:1619
+#: ubuntucinnamon-welcome:2075
+msgid "Cinnamon Welcome"
+msgstr "Bienvenida de Cinnamon"
 
-#: budgie-welcome:531
-msgid "Budgie Desktop"
-msgstr "Escritorio de Budgie"
+#: ubuntucinnamon-welcome:531
+msgid "Cinnamon Desktop"
+msgstr "Escritorio de Cinnamon"
 
-#: budgie-welcome:614
+#: ubuntucinnamon-welcome:614
 msgid ""
 "The following third-party repositories need to be added to complete the "
 "installation:"
@@ -66,7 +66,7 @@ msgstr ""
 "Hace falta añadir estos repositorios de terceros para completar la "
 "instalación:"
 
-#: budgie-welcome:642
+#: ubuntucinnamon-welcome:642
 msgid ""
 "Third-Party repositories are not supported by Ubuntu. You should only "
 "continue if you trust the maintainers of the proposed repositories."
@@ -74,73 +74,73 @@ msgstr ""
 "Ubuntu no brinda servicio técnico a los repositorios de terceros. Continúe "
 "solo si confía en los responsables de los repositorios propuestos."
 
-#: budgie-welcome:645
+#: ubuntucinnamon-welcome:645
 msgid "Continue with the installation?"
 msgstr "¿Quiere continuar con la instalación?"
 
-#: budgie-welcome:651
+#: ubuntucinnamon-welcome:651
 msgid "Third-Party Repositories"
 msgstr "Repositorios de terceros"
 
-#: budgie-welcome:947
+#: ubuntucinnamon-welcome:947
 msgid "Welcome App"
 msgstr "Aplicación de bienvenida"
 
-#: budgie-welcome:1291
+#: ubuntucinnamon-welcome:1291
 msgid "Could not gather data."
 msgstr "No se pudieron recopilar los datos."
 
-#: budgie-welcome:1371
+#: ubuntucinnamon-welcome:1371
 msgid "GB"
 msgstr "GB"
 
-#: budgie-welcome:1372
+#: ubuntucinnamon-welcome:1372
 msgid "GiB"
 msgstr "GiB"
 
-#: budgie-welcome:1373
+#: ubuntucinnamon-welcome:1373
 msgid "MB"
 msgstr "MB"
 
-#: budgie-welcome:1374
+#: ubuntucinnamon-welcome:1374
 msgid "MiB"
 msgstr "MiB"
 
-#: budgie-welcome:1634
+#: ubuntucinnamon-welcome:1634
 msgid "Status"
 msgstr "Estado"
 
-#: budgie-welcome:1721
+#: ubuntucinnamon-welcome:1721
 msgid " is in progress. Please wait for it to complete"
 msgstr "está en proceso. Espere a que termine"
 
-#: budgie-welcome:2076
+#: ubuntucinnamon-welcome:2076
 msgid "Find out about your operating system"
 msgstr "Encuentre información acerca de su sistema operativo"
 
-#: budgie-welcome:2078
-msgid "Budgie Themes"
-msgstr "Temas de Budgie"
+#: ubuntucinnamon-welcome:2078
+msgid "Cinnamon Themes"
+msgstr "Temas de Cinnamon"
 
-#: budgie-welcome:2079
+#: ubuntucinnamon-welcome:2079
 msgid "Give the desktop a makeover with new themes, icons and fonts"
 msgstr "Transforme el escritorio con temas, iconos y tipos de letra nuevos"
 
-#: budgie-welcome:2081
-msgid "Budgie Applets"
-msgstr "Miniaplicaciones de Budgie"
+#: ubuntucinnamon-welcome:2081
+msgid "Cinnamon Applets"
+msgstr "Miniaplicaciones de Cinnamon"
 
-#: budgie-welcome:2082
+#: ubuntucinnamon-welcome:2082
 msgid ""
 "Customize the desktop panel with applets that provide extra capabilities"
 msgstr ""
 "Personalice el panel de escritorio con miniaplicaciones que proveen "
 "capacidades adicionales"
 
-#: budgie-welcome:2085
-msgid "Budgie Discourse"
-msgstr "Discourse de Budgie"
+#: ubuntucinnamon-welcome:2085
+msgid "Cinnamon Discourse"
+msgstr "Discourse de Cinnamon"
 
-#: budgie-welcome:2086
-msgid "Be part of the Ubuntu Budgie Community"
-msgstr "Se parte de la Comunidad Ubuntu Budgie"
+#: ubuntucinnamon-welcome:2086
+msgid "Be part of the Ubuntu Cinnamon Community"
+msgstr "Se parte de la Comunidad Ubuntu Cinnamon"

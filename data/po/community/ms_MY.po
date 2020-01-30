@@ -4,11 +4,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: DxnxshFxrhxn <danishfarhan700@gmail.com>, 2018\n"
-"Language-Team: Malay (Malaysia) (https://www.transifex.com/ubuntu-budgie/teams/72251/ms_MY/)\n"
+"Language-Team: Malay (Malaysia) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/ms_MY/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -53,25 +53,25 @@ msgstr "Cuba lagi"
 
 #: community.html:40
 msgid ""
-"An alternative way to get in touch is via our official IRC (Internet Relay "
+"An alternative way to get in touch is via our official Telegram (Internet Relay "
 "Chat) channel."
 msgstr ""
-"Cara lain untuk berhubung dengan kami adalah melalui saluran IRC (Sembang "
+"Cara lain untuk berhubung dengan kami adalah melalui saluran Telegram (Sembang "
 "Lengah Internet) rasmi kami."
 
 #: community.html:42
 msgid ""
 "If you disconnect from the channel you will not receive a notification of "
-"any reply. So either leave an IRC session open - or we recommend connecting "
-"to all ubuntu IRC channels via an IRC bouncer."
+"any reply. So either leave an Telegram session open - or we recommend connecting "
+"to all ubuntu Telegram channels via an Telegram bouncer."
 msgstr ""
 "Jika anda terputuskan dari saluran, anda tidak dapat menerima pemberitahuan "
-"atas apa jua balasan. Oleh itu biarkan sesi IRC terbuka - atau kami sarankan"
-" anda menyambung ke semua saluran IRC Ubuntu melalui pelantun IRC."
+"atas apa jua balasan. Oleh itu biarkan sesi Telegram terbuka - atau kami sarankan"
+" anda menyambung ke semua saluran Telegram Ubuntu melalui pelantun Telegram."
 
 #: community.html:48
-msgid "#Ubuntu-Budgie on FreeNode"
-msgstr "#Ubuntu-Budgie di FreeNode"
+msgid "#Ubuntu-Cinnamon on FreeNode"
+msgstr "#Ubuntu-Cinnamon di FreeNode"
 
 #: community.html:57
 msgid "Forum"
@@ -124,5 +124,5 @@ msgstr ""
 "senaraikan ia di sini dan memudahkan lagi penemuannya."
 
 #: community.html132, 140
-msgid "Ubuntu Budgie Brasil"
-msgstr "Ubuntu Budgie Brasil"
+msgid "Ubuntu Cinnamon Brasil"
+msgstr "Ubuntu Cinnamon Brasil"

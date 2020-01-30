@@ -9,11 +9,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Guilherme Berbet <amendobobo.gc@gmail.com>, 2019\n"
-"Language-Team: Portuguese (Brazil) (https://www.transifex.com/ubuntu-budgie/teams/72251/pt_BR/)\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -144,8 +144,8 @@ msgstr ""
 "Acessível a todos, independentemente da linguagem e habilidade física."
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
-msgstr "Aumenta a adoção de usuários ao Budgie desktop e Ubuntu."
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
+msgstr "Aumenta a adoção de usuários ao Cinnamon desktop e Ubuntu."
 
 #: introduction.html:88
 msgid ""
@@ -212,12 +212,12 @@ msgstr ""
 "name\"></span> pega no sistema operativo ubuntu e adiciona o toque do"
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "Budgie desktop"
+msgid "Cinnamon desktop"
+msgstr "Cinnamon desktop"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Budgie Desktop"
+msgid "Cinnamon Desktop"
+msgstr "Cinnamon Desktop"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -283,10 +283,10 @@ msgstr "Configurações"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
-"Budgie Desktop fornece um ambiente de trabalho intuitivo e atraente usando "
+"Cinnamon Desktop fornece um ambiente de trabalho intuitivo e atraente usando "
 "metáforas tradicionais, o que significa que se você já usou"
 
 #: introduction.html:187
@@ -303,12 +303,12 @@ msgstr "Código aberto"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"O que o Linux, o Ubuntu e o Budgie desktop têm em comum?! São de Código "
+"O que o Linux, o Ubuntu e o Cinnamon desktop têm em comum?! São de Código "
 "Aberto. Este software pode ser usado, alterado e compartilhado gratuitamente"
 " (em forma modificada ou não modificada) por qualquer pessoa. Em poucas "
 "palavras o <span name=\"distro-name\"></span> é livre, no sentido mais "
@@ -385,7 +385,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "
@@ -396,7 +396,7 @@ msgstr ""
 "organização que usa o sistema operacional, você é membro das comunidades "
 "Linux e Código Aberto e se beneficia dos esforços dos desenvolvedores que "
 "contribuem para o <span name=\"distro-name\"></span> e seus projetos "
-"relacionados: Linux, Budgie desktop e Ubuntu. Os membros da comunidade "
+"relacionados: Linux, Cinnamon desktop e Ubuntu. Os membros da comunidade "
 "executam o Linux em quase qualquer hardware, desde o Macbook mais bonito ao "
 "netbook mais barato, desde o mais recente Chromebook até algumas máquinas "
 "muito antigas projetadas para o Windows, e dos servidores de Internet mais "

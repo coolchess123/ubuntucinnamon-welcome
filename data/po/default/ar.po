@@ -4,11 +4,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-22 21:33+0000\n"
 "Last-Translator: Faisal Almosbahi <faisal.almosbahi@gmail.com>, 2019\n"
-"Language-Team: Arabic (https://www.transifex.com/ubuntu-budgie/teams/72251/ar/)\n"
+"Language-Team: Arabic (https://www.transifex.com/ubuntu-cinnamon/teams/72251/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,11 +30,11 @@ msgstr "تخطيط سطح المكتب"
 
 #: default.html:33
 msgid ""
-"There are several additional Budgie Desktop compatible themes available. "
-"Budgie Welcome provides a simple method to switch your desktop appearance "
+"There are several additional Cinnamon Desktop compatible themes available. "
+"Cinnamon Welcome provides a simple method to switch your desktop appearance "
 "(theme, fonts, icons, desktop wallpaper)."
 msgstr ""
-"توجد العديد من المظاهر المتوافقة مع سطح مكتب Budgie. واجهة مرحبًا توفر طريقة"
+"توجد العديد من المظاهر المتوافقة مع سطح مكتب Cinnamon. واجهة مرحبًا توفر طريقة"
 " بسيطة لتغيير شكل سطح المكتب (مظاهر, خطوط, أيقونات, خلفيات سطح المكتب)."
 
 #: default.html52, 72, 97, 117, 137, 157, 177, 197, 217, 237, 262, 282
@@ -82,8 +82,8 @@ msgid "Default"
 msgstr "الافتراضي"
 
 #: default.html:309
-msgid "Classic Budgie"
-msgstr "Budgie التقليدي"
+msgid "Classic Cinnamon"
+msgstr "Cinnamon التقليدي"
 
 #: default.html:321
 msgid "Classic GNOME"
@@ -112,5 +112,5 @@ msgstr ""
 "تعين اللوحات إلى هيئتها الافتراضية."
 
 #: default.html:338
-msgid "Reset Budgie Panel"
-msgstr "استعادة لوحة Budgie"
+msgid "Reset Cinnamon Panel"
+msgstr "استعادة لوحة Cinnamon"

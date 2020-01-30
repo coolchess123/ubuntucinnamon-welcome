@@ -6,11 +6,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Bengünur <bengunur2@gmail.com>, 2019\n"
-"Language-Team: Turkish (https://www.transifex.com/ubuntu-budgie/teams/72251/tr/)\n"
+"Language-Team: Turkish (https://www.transifex.com/ubuntu-cinnamon/teams/72251/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -203,7 +203,7 @@ msgid ""
 "click the installation icon from the desktop."
 msgstr ""
 "Halihazırda bulunduğunuz canlı oturum, bilgisayarınızı değiştirmeden <span "
-"name=\"distro-name\">Ubuntu Budgie</span>'yi test etmek için iyi bir "
+"name=\"distro-name\">Ubuntu Cinnamon</span>'yi test etmek için iyi bir "
 "fırsattır, tüm çevre birimlerinin makinenize yüklenmeyi taahhütte bulunmadan"
 " önce amaçlanan şekilde çalıştıklarını test etmenize izin verir. Hazır "
 "olduğunuzda, masaüstündeki yükleme ikonuna çift tıklayın."
@@ -598,7 +598,7 @@ msgstr ""
 "Linux dağıtımları <code>grub</code> olarak bilinen ve işletim sistemini "
 "önyükleme yapan bir önyükleme yükleyicisi kullanır. Bununla birlikte, bazı "
 "işletim sistemleri (Windows gibi) mevcut önyükleme yükleyicileriyle entegre "
-"olmaz ve geçici olarak <span name=\"distro-name\">Ubuntu Budgie</span>'ye "
+"olmaz ve geçici olarak <span name=\"distro-name\">Ubuntu Cinnamon</span>'ye "
 "erişimi kaybetme potansiyeline sahip olacak şekilde üzerlerine yazarlar."
 
 #: gettingstarted.html:369
@@ -1289,15 +1289,15 @@ msgstr ""
 "arabirimini hızlı bir şekilde kurmak için kullanılabilir."
 
 #: gettingstarted.html:1019
-msgid "Budgie Desktop Settings"
-msgstr "Budgie Desktop Ayarları"
+msgid "Cinnamon Desktop Settings"
+msgstr "Cinnamon Desktop Ayarları"
 
 #: gettingstarted.html:1022
 msgid ""
-"<b>Budgie Desktop Settings</b> can be found later in the menu <b>System "
+"<b>Cinnamon Desktop Settings</b> can be found later in the menu <b>System "
 "Tools</b>."
 msgstr ""
-"<b>Budgie Desktop Ayarları</b>'na daha sonra <b>Sistem Araçları</b> "
+"<b>Cinnamon Desktop Ayarları</b>'na daha sonra <b>Sistem Araçları</b> "
 "menüsünden ulaşılabilir."
 
 #: gettingstarted.html1027, 1033
@@ -1330,12 +1330,12 @@ msgid ""
 msgstr ""
 
 #: gettingstarted.html:1059
-msgid "Budgie Desktop shortcuts"
-msgstr "Budgie Masaüstü Kısayolları"
+msgid "Cinnamon Desktop shortcuts"
+msgstr "Cinnamon Masaüstü Kısayolları"
 
 #: gettingstarted.html:1060
-msgid "Some common shortcuts used in Budgie Desktop"
-msgstr "Budgie Masaüstünde kullanılan bazı ortak kısayollar"
+msgid "Some common shortcuts used in Cinnamon Desktop"
+msgstr "Cinnamon Masaüstünde kullanılan bazı ortak kısayollar"
 
 #: gettingstarted.html:1070
 msgid "Open notifications in Raven"

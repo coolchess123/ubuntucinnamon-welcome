@@ -5,11 +5,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Emre JILTA <jilta.e@gmail.com>, 2018\n"
-"Language-Team: Turkish (https://www.transifex.com/ubuntu-budgie/teams/72251/tr/)\n"
+"Language-Team: Turkish (https://www.transifex.com/ubuntu-cinnamon/teams/72251/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -54,25 +54,25 @@ msgstr "Yeniden Dene"
 
 #: community.html:40
 msgid ""
-"An alternative way to get in touch is via our official IRC (Internet Relay "
+"An alternative way to get in touch is via our official Telegram (Internet Relay "
 "Chat) channel."
 msgstr ""
-"İletişim kurmanın alternatif bir yolu resmi IRC (Internet Relay Chat) "
+"İletişim kurmanın alternatif bir yolu resmi Telegram (Internet Relay Chat) "
 "kanalımızdır."
 
 #: community.html:42
 msgid ""
 "If you disconnect from the channel you will not receive a notification of "
-"any reply. So either leave an IRC session open - or we recommend connecting "
-"to all ubuntu IRC channels via an IRC bouncer."
+"any reply. So either leave an Telegram session open - or we recommend connecting "
+"to all ubuntu Telegram channels via an Telegram bouncer."
 msgstr ""
 "Kanal bağlantısını keserseniz herhangi bir cevap bildirimi alamazsınız. Ya "
-"bir IRC oturumunu açık bırakın - ya da bir IRC bouncer kullanarak tüm ubuntu"
-" IRC kanallarına bağlanmanızı öneririz."
+"bir Telegram oturumunu açık bırakın - ya da bir Telegram bouncer kullanarak tüm ubuntu"
+" Telegram kanallarına bağlanmanızı öneririz."
 
 #: community.html:48
-msgid "#Ubuntu-Budgie on FreeNode"
-msgstr "FreeNode üzerinde #Ubuntu-Budgie  "
+msgid "#Ubuntu-Cinnamon on FreeNode"
+msgstr "FreeNode üzerinde #Ubuntu-Cinnamon  "
 
 #: community.html:57
 msgid "Forum"
@@ -125,5 +125,5 @@ msgstr ""
 "artırabiliriz."
 
 #: community.html132, 140
-msgid "Ubuntu Budgie Brasil"
-msgstr "Ubuntu Budgie Brezilya"
+msgid "Ubuntu Cinnamon Brasil"
+msgstr "Ubuntu Cinnamon Brezilya"

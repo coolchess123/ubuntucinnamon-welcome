@@ -8,11 +8,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Jean-Elie ARGYRE <remy.argyre@gmail.com>, 2019\n"
-"Language-Team: French (https://www.transifex.com/ubuntu-budgie/teams/72251/fr/)\n"
+"Language-Team: French (https://www.transifex.com/ubuntu-cinnamon/teams/72251/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -148,8 +148,8 @@ msgstr ""
 "physiques."
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
-msgstr "Améliorer l'adoption d'Ubuntu et du bureau Budgie"
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
+msgstr "Améliorer l'adoption d'Ubuntu et du bureau Cinnamon"
 
 #: introduction.html:88
 msgid ""
@@ -218,12 +218,12 @@ msgstr ""
 "name\"></span> prends le système Ubuntu de base et y ajoute le "
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "environnement de bureau Budgie"
+msgid "Cinnamon desktop"
+msgstr "environnement de bureau Cinnamon"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Environnement de bureau Budgie"
+msgid "Cinnamon Desktop"
+msgstr "Environnement de bureau Cinnamon"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -291,10 +291,10 @@ msgstr "Paramètres"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
-"Budgie met à votre disposition un environnement intuitif  et interactif qui "
+"Cinnamon met à votre disposition un environnement intuitif  et interactif qui "
 "utilise des métaphores traditionnels, ce qui signifie que si vous avez "
 "utilisé précédement"
 
@@ -312,12 +312,12 @@ msgstr "Libre"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"Ce que Linux, Ubuntu et Budgie ont en commun, c'est qu'ils sont Open Source."
+"Ce que Linux, Ubuntu et Cinnamon ont en commun, c'est qu'ils sont Open Source."
 " Ce logiciel peut être librement utilisé, modifié et partagé (sous forme "
 "modifiée ou non modifiée) par tout le monde. En un mot, <span name=\"distro-"
 "name\"></span> est gratuit, dans le vrai sens du terme."
@@ -394,7 +394,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "
@@ -405,7 +405,7 @@ msgstr ""
 "name\"></span>ou un employé d'une organisation qui utilise ce système "
 "d'exploitation, vous êtes membre des communautés Linux et Open Source et "
 "bénéficiez des efforts des développeurs qui contribuent à <span name"
-"=\"distro-name\"></span> et ses projets connexes: Linux, Budgie desktop, et "
+"=\"distro-name\"></span> et ses projets connexes: Linux, Cinnamon desktop, et "
 "Ubuntu. Les membres de la communauté exécutent Linux sur presque tous les "
 "matériels, du Macbook le plus jolie au netbook le moins cher, du plus récent"
 " Chromebook à de très anciennes machines conçues pour Windows, et des "

@@ -23,12 +23,12 @@
       "VALUES": {
         "color-shading-type": "solid",
         "picture-options": "stretched",
-        "picture-uri": "file:////usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper3.jpg",
+        "picture-uri": "file:////usr/share/backgrounds/cinnamon/ubuntu_cinnamon_wallpaper3.jpg",
         "primary-color": "#008094"
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": false,
         "dark-theme": true
@@ -72,12 +72,12 @@
       "VALUES": {
         "color-shading-type": "solid",
         "picture-options": "stretched",
-        "picture-uri": "file:////usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper3.jpg",
+        "picture-uri": "file:////usr/share/backgrounds/cinnamon/ubuntu_cinnamon_wallpaper3.jpg",
         "primary-color": "#008094"
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": false,
         "dark-theme": true
@@ -121,12 +121,12 @@
       "VALUES": {
         "color-shading-type": "solid",
         "picture-options": "stretched",
-        "picture-uri": "file:////usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper3.jpg",
+        "picture-uri": "file:////usr/share/backgrounds/cinnamon/ubuntu_cinnamon_wallpaper3.jpg",
         "primary-color": "#008094"
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": false,
         "dark-theme": true

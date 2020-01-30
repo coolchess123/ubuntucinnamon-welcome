@@ -5,11 +5,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Nicola Gentile <nikkognt@gmail.com>, 2018\n"
-"Language-Team: Italian (https://www.transifex.com/ubuntu-budgie/teams/72251/it/)\n"
+"Language-Team: Italian (https://www.transifex.com/ubuntu-cinnamon/teams/72251/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -54,25 +54,25 @@ msgstr "Riprova"
 
 #: community.html:40
 msgid ""
-"An alternative way to get in touch is via our official IRC (Internet Relay "
+"An alternative way to get in touch is via our official Telegram (Internet Relay "
 "Chat) channel."
 msgstr ""
-"Un modo alternativo per entrare in contatto è tramite il nostro canale IRC "
+"Un modo alternativo per entrare in contatto è tramite il nostro canale Telegram "
 "(Internet Relay Chat) ufficiale."
 
 #: community.html:42
 msgid ""
 "If you disconnect from the channel you will not receive a notification of "
-"any reply. So either leave an IRC session open - or we recommend connecting "
-"to all ubuntu IRC channels via an IRC bouncer."
+"any reply. So either leave an Telegram session open - or we recommend connecting "
+"to all ubuntu Telegram channels via an Telegram bouncer."
 msgstr ""
 "Se ti scolleghi dal canale, non riceverai una notifica di alcuna risposta. "
-"Quindi, o lasci una sessione IRC aperta - o si consiglia di collegarsi a "
-"tutti i canali IRC ubuntu tramite un bouncer IRC."
+"Quindi, o lasci una sessione Telegram aperta - o si consiglia di collegarsi a "
+"tutti i canali Telegram ubuntu tramite un bouncer Telegram."
 
 #: community.html:48
-msgid "#Ubuntu-Budgie on FreeNode"
-msgstr "#Ubuntu-Budgie su FreeNode"
+msgid "#Ubuntu-Cinnamon on FreeNode"
+msgstr "#Ubuntu-Cinnamon su FreeNode"
 
 #: community.html:57
 msgid "Forum"
@@ -125,5 +125,5 @@ msgstr ""
 "che possiamo elencarla qui e migliorare la sua visibilità."
 
 #: community.html132, 140
-msgid "Ubuntu Budgie Brasil"
-msgstr "Ubuntu Budgie Brasile"
+msgid "Ubuntu Cinnamon Brasil"
+msgstr "Ubuntu Cinnamon Brasile"

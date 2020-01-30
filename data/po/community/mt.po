@@ -3,11 +3,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Gabriel Caruana <gabb1995@gmail.com>, 2019\n"
-"Language-Team: Maltese (https://www.transifex.com/ubuntu-budgie/teams/72251/mt/)\n"
+"Language-Team: Maltese (https://www.transifex.com/ubuntu-cinnamon/teams/72251/mt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -52,26 +52,26 @@ msgstr "Erġa Prova"
 
 #: community.html:40
 msgid ""
-"An alternative way to get in touch is via our official IRC (Internet Relay "
+"An alternative way to get in touch is via our official Telegram (Internet Relay "
 "Chat) channel."
 msgstr ""
-"Mod ieħor biex tikkuntatjana huwa billi tidħol fl-IRC (Internet Relay Chat) "
+"Mod ieħor biex tikkuntatjana huwa billi tidħol fl-Telegram (Internet Relay Chat) "
 "channel uffiċjali tagħna."
 
 #: community.html:42
 msgid ""
 "If you disconnect from the channel you will not receive a notification of "
-"any reply. So either leave an IRC session open - or we recommend connecting "
-"to all ubuntu IRC channels via an IRC bouncer."
+"any reply. So either leave an Telegram session open - or we recommend connecting "
+"to all ubuntu Telegram channels via an Telegram bouncer."
 msgstr ""
 "Jekk titlef il-konnessjoni miċ-channel ma tirċievi l-ebda notifikazzjonji "
-"dwar ebda risposta. Jiġifieri ħalli is sessjoni tal-IRC miftuħa - jew "
-"nirrakomandaw ukoll li taqbad mal-IRC channels kollha tal-ubuntu bl-użu ta "
-"IRC bouncer."
+"dwar ebda risposta. Jiġifieri ħalli is sessjoni tal-Telegram miftuħa - jew "
+"nirrakomandaw ukoll li taqbad mal-Telegram channels kollha tal-ubuntu bl-użu ta "
+"Telegram bouncer."
 
 #: community.html:48
-msgid "#Ubuntu-Budgie on FreeNode"
-msgstr "#Ubuntu-Budgie fuq FreeNode"
+msgid "#Ubuntu-Cinnamon on FreeNode"
+msgstr "#Ubuntu-Cinnamon fuq FreeNode"
 
 #: community.html:57
 msgid "Forum"
@@ -120,5 +120,5 @@ msgid ""
 msgstr ""
 
 #: community.html132, 140
-msgid "Ubuntu Budgie Brasil"
-msgstr "Ubuntu Budgie Brażil"
+msgid "Ubuntu Cinnamon Brasil"
+msgstr "Ubuntu Cinnamon Brażil"

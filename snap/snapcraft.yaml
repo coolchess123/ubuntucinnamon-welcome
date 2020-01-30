@@ -1,37 +1,37 @@
-name: ubuntu-budgie-welcome
+name: ubuntu-ubuntucinnamon-welcome
 version: '0.9.5'
-summary: Welcome screen to greet new Ubuntu Budgie users on their first login.
+summary: Welcome screen to greet new Ubuntu Cinnamon users on their first login.
 description: |
-  The ubuntu-budgie-welcome application was designed to greet a new user at the
-  first run after installing Ubuntu Budgie. This app will show you around
+  The ubuntu-ubuntucinnamon-welcome application was designed to greet a new user at the
+  first run after installing Ubuntu Cinnamon. This app will show you around
   the official Ubuntu flavour, make a few recommendations, showcase some
-  of the available budgie applets (to personalize your desktop), and ease the
+  of the available cinnamon applets (to personalize your desktop), and ease the
   installation effort around a few common applications.
 
 grade: stable
 confinement: classic
 
 apps:
-  budgie-welcome:
-    command: usr/bin/budgie-welcome
-    desktop: usr/share/applications/budgie-welcome.desktop
+  ubuntucinnamon-welcome:
+    command: usr/bin/ubuntucinnamon-welcome
+    desktop: usr/share/applications/ubuntucinnamon-welcome.desktop
 
-  budgie-themes:
-    command: usr/bin/budgie-welcome --jump-to=default
-    desktop: usr/share/applications/budgie-themes.desktop
+  cinnamon-themes:
+    command: usr/bin/ubuntucinnamon-welcome --jump-to=default
+    desktop: usr/share/applications/cinnamon-themes.desktop
 
-  budgie-applets:
-    command: usr/bin/budgie-welcome --jump-to=budgie-applets
-    desktop: usr/share/applications/budgie-applets.desktop
+  cinnamon-applets:
+    command: usr/bin/ubuntucinnamon-welcome --jump-to=cinnamon-applets
+    desktop: usr/share/applications/cinnamon-applets.desktop
 
-  budgie-discourse:
-    command: xdg-open "https://discourse.ubuntubudgie.org"
-    desktop: usr/share/applications/budgie-discourse.desktop
+  cinnamon-discourse:
+    command: xdg-open "https://discourse.ubuntucinnamon.org"
+    desktop: usr/share/applications/cinnamon-discourse.desktop
 
 parts:
-  budgie-welcome:
+  ubuntucinnamon-welcome:
     plugin: nil
-    #source: https://github.com/UbuntuBudgie/budgie-welcome/archive/v$SNAPCRAFT_PROJECT_VERSION.tar.gz
+    #source: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-welcome/archive/v$SNAPCRAFT_PROJECT_VERSION.tar.gz
     source: .
     build-packages:
       - python3
@@ -44,16 +44,16 @@ parts:
     override-build: |
       cd scripts && ./rebuild-translations.sh
       cd ../ && uglifyjs -o data/js/bootstrap.min.js data/js/bootstrap.js && uglifyjs -o data/js/baguetteBox.min.js data/js/baguetteBox.js  && uglifyjs -o data/js/popper.min.js data/js/popper.js
-      mkdir -p $SNAPCRAFT_PART_INSTALL/usr/share/budgie-welcome/
-      cp -r data/* $SNAPCRAFT_PART_INSTALL/usr/share/budgie-welcome/
+      mkdir -p $SNAPCRAFT_PART_INSTALL/usr/share/ubuntucinnamon-welcome/
+      cp -r data/* $SNAPCRAFT_PART_INSTALL/usr/share/ubuntucinnamon-welcome/
       mkdir -p $SNAPCRAFT_PART_INSTALL/usr/share/locale/
       cp -r locale/* $SNAPCRAFT_PART_INSTALL/usr/share/locale/
       mkdir -p $SNAPCRAFT_PART_INSTALL/usr/share/polkit-1/actions/
-      cp org.budgie.welcome.policy $SNAPCRAFT_PART_INSTALL/usr/share/polkit-1/actions/
-      cp budgie-welcome $SNAPCRAFT_PART_INSTALL/usr/bin/
-      mkdir -p $SNAPCRAFT_PART_INSTALL/usr/lib/budgie-welcome
-      cp budgie-welcome-privileged-actions $SNAPCRAFT_PART_INSTALL/usr/lib/budgie-welcome
-      cp budgie-welcome.1 $SNAPCRAFT_PART_INSTALL/usr/share/man/man1
+      cp org.cinnamon.welcome.policy $SNAPCRAFT_PART_INSTALL/usr/share/polkit-1/actions/
+      cp ubuntucinnamon-welcome $SNAPCRAFT_PART_INSTALL/usr/bin/
+      mkdir -p $SNAPCRAFT_PART_INSTALL/usr/lib/ubuntucinnamon-welcome
+      cp ubuntucinnamon-welcome-privileged-actions $SNAPCRAFT_PART_INSTALL/usr/lib/ubuntucinnamon-welcome
+      cp ubuntucinnamon-welcome.1 $SNAPCRAFT_PART_INSTALL/usr/share/man/man1
       cp desktop/*.desktop $SNAPCRAFT_PART_INSTALL/usr/share/applications/
     # The cruft_ filesets define files/directories that can be safely
     # removed to reduce the size of the snap.
@@ -185,4 +185,4 @@ parts:
 #    source: snap/scripts
 #    organize:
 #      launcher: bin/launcher
-#    after: [budgie-welcome]
+#    after: [ubuntucinnamon-welcome]

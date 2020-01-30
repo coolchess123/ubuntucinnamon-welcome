@@ -3,10 +3,10 @@ Terminal=false
 Type=Application
 Categories=GNOME;GTK;System;
 StartupNotify=false
-Name=Budgie Themes
-Exec=budgie-welcome --jump-to=default
-Icon=distributor-logo-ubuntu-budgie
+Name=Cinnamon Themes
+Exec=ubuntucinnamon-welcome --jump-to=default
+Icon=distributor-logo-ubuntu-cinnamon
 Comment=Give the desktop a makeover with new themes, icons and fonts
 Keywords=desktop;preferences;
-OnlyShowIn=Budgie;
-StartupWMClass=budgie-welcome
+OnlyShowIn=Cinnamon;
+StartupWMClass=ubuntucinnamon-welcome

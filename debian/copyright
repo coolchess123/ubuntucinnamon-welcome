@@ -1,14 +1,15 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: budgie-welcome
-Upstream-Contact: David Mohammed <fossfreedom@ubuntu.com>
-Source: https://github.com/UbuntuBudgie/budgie-welcome
+Upstream-Name: ubuntucinnamon-welcome
+Upstream-Contact: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+Source: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-welcome
 
-Files: 
+Files:
     *
 Copyright: 2016-2018, David Mohammed <fossfreedom@ubuntu.com>
+           2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: GPL-2+
 
-Files: budgie-welcome
+Files: ubuntucinnamon-welcome
 Copyright: 2012-2013 Korora Project <dev@kororaproject.org>
            2013 Manjaro Linux <support@manjaro.org>
            2014 Antergos
@@ -16,6 +17,7 @@ Copyright: 2012-2013 Korora Project <dev@kororaproject.org>
            2015-2016 Luke Horwell <luke@ubuntu-mate.org>
            2016 Robin Thompson
            2016-2017 David Mohammed <fossfreedom@ubuntu.com>
+           2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: GPL-3+
 
 Files: data/css/welcome.css
@@ -27,17 +29,19 @@ Copyright: 2012-2013 Korora Project <dev@kororaproject.org>
            2015-2016 Martin Wimpress <code@flexion.org>
            2015-2016 Luke Horwell <luke@ubuntu-mate.org>
            2016-2017 David Mohammed <fossfreedom@ubuntu.com>
+           2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: GPL-2+
 
 Files: README.md
        data/img/logos/*
-       org.budgie.welcome.policy
-       budgie-welcome.1
+       org.cinnamon.welcome.policy
+       ubuntucinnamon-welcome.1
        desktop/*.desktop
-       budgie-welcome-privileged-actions
+       ubuntucinnamon-welcome-privileged-actions
 Copyright: 2015-2016 Martin Wimpress <code@flexion.org>
            2015-2016 Luke Horwell <luke@ubuntu-mate.org>
            2016-2017 David Mohammed <fossfreedom@ubuntu.com>
+           2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: GPL-2+
 
 Files: data/*.html
@@ -45,9 +49,10 @@ Copyright: 2015-2016, Martin Wimpress <code@flexion.org>
            2015, Larry Bushey
            2015-2016, Luke Horwell <luke@ubuntu-mate.org>
            2016-2017, David Mohammed <fossfreedom@ubuntu.com>
+           2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: GPL-2+
 
-Files: 
+Files:
     data/scripts/*
     screenshot-live-session.png
     screenshot-normal-session.png
@@ -56,15 +61,17 @@ Files:
     data/config/packages.json
     docs/standards.md
 Copyright: 2016-2017, David Mohammed <fossfreedom@ubuntu.com>
+           2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: GPL-2+
 
-Files: 
+Files:
     data/img/distro-icon-inverted.svg
     data/img/distro-icon.svg
 Copyright: 2016-2017, David Mohammed <fossfreedom@ubuntu.com>
+           2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: CC-BY-SA-3.0
 
-Files: 
+Files:
     data/img/applications/*.png
     data/img/applications/*.svg
 Copyright: 2004-2012, Canonical Ltd.
@@ -92,13 +99,15 @@ License: CC-BY-SA-4.0
 Files: data/img/os/*
     data/img/screenshots/*
 Copyright: 2016-2017, David Mohammed <fossfreedom@ubuntu.com>
+           2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: CC-BY-SA-3.0
 
-Files: 
+Files:
     data/css/material-icons.css
     data/css/welcome.css
     data/img/welcome/*
 Copyright: 2016-2017, David Mohammed <fossfreedom@ubuntu.com>
+           2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: Apache-2.0
 
 Files:
@@ -206,10 +215,10 @@ License: MIT
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
- 
+
 License: CC-BY-SA-4.0
- This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. 
- To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/legalcode or send a letter 
+ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+ To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/legalcode or send a letter
  to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 License: CC-BY-SA-3.0

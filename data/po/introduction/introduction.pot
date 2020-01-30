@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
@@ -109,7 +109,7 @@ msgid "Accessible to all, regardless of language and physical ability."
 msgstr ""
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
 msgstr ""
 
 #: introduction.html:88
@@ -166,11 +166,11 @@ msgid ""
 msgstr ""
 
 #: introduction.html:121
-msgid "Budgie desktop"
+msgid "Cinnamon desktop"
 msgstr ""
 
 #: introduction.html:127
-msgid "Budgie Desktop"
+msgid "Cinnamon Desktop"
 msgstr ""
 
 #: introduction.html:134
@@ -233,7 +233,7 @@ msgstr ""
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
 
@@ -251,7 +251,7 @@ msgstr ""
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
@@ -307,7 +307,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "

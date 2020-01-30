@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: features.html:102
 msgid ""
-"While budgie-desktop provides the essential user interface to control and "
+"While cinnamon-desktop provides the essential user interface to control and "
 "use a computer, <span name=\"distro-name\"></span> adds a collection of "
 "additional applications to turn your computer into a truly powerful "
 "workstation."

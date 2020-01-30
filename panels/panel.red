@@ -2,11 +2,11 @@
 Panels=Top Panel
 
 [Top Panel]
-Children=Budgie Menu;Spacer 1;IconTaskList;Spacer 2;AppIndicator;Tray;Spacer 3;Status;Separator;Clock;User Indicator;Spacer 4;Raven Trigger;
+Children=Cinnamon Menu;Spacer 1;IconTaskList;Spacer 2;AppIndicator;Tray;Spacer 3;Status;Separator;Clock;User Indicator;Spacer 4;Raven Trigger;
 Position=bottom
 
-[Budgie Menu]
-ID=Budgie Menu
+[Cinnamon Menu]
+ID=Cinnamon Menu
 
 [Spacer 1]
 ID=Spacer

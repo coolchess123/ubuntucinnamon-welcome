@@ -28,7 +28,7 @@
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": true,
         "dark-theme": true
@@ -77,7 +77,7 @@
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": true,
         "dark-theme": true
@@ -126,7 +126,7 @@
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": true,
         "dark-theme": true

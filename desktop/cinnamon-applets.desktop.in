@@ -3,10 +3,10 @@ Terminal=false
 Type=Application
 Categories=GNOME;GTK;System;
 StartupNotify=false
-Name=Budgie Applets
-Exec=budgie-welcome --jump-to=budgie-applets
-Icon=distributor-logo-ubuntu-budgie
+Name=Cinnamon Applets
+Exec=ubuntucinnamon-welcome --jump-to=cinnamon-applets
+Icon=distributor-logo-ubuntu-cinnamon
 Comment=Customize the desktop panel with applets that provide extra capabilities
 Keywords=desktop;preferences;
-OnlyShowIn=Budgie;
-StartupWMClass=budgie-welcome
+OnlyShowIn=Cinnamon;
+StartupWMClass=ubuntucinnamon-welcome

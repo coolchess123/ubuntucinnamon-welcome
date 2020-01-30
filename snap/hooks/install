@@ -6,10 +6,10 @@ set -e
 
 # Enable autostart by default. Requires classic confinement.
 mkdir -p /etc/skel/.config/autostart/
-cp $SNAP/usr/share/applications/budgie-welcome.desktop /etc/skel/.config/autostart/
-sed -i 's#budgie-welcome#ubuntu-budgie-welcome.budgie-welcome#' /etc/skel/.config/autostart/budgie-welcome.desktop
+cp $SNAP/usr/share/applications/ubuntucinnamon-welcome.desktop /etc/skel/.config/autostart/
+sed -i 's#ubuntucinnamon-welcome#ubuntu-ubuntucinnamon-welcome.ubuntucinnamon-welcome#' /etc/skel/.config/autostart/ubuntucinnamon-welcome.desktop
 # Get polkit into the real file system
 
 cp -r $SNAP/usr/share/polkit-1/actions/* /usr/share/polkit-1/actions/
-sed -i 's#<annotate key="org.freedesktop.policykit.exec.path">/usr/lib/budgie-welcome/budgie-welcome-privileged-actions</annotate>#<annotate key="org.freedesktop.policykit.exec.path">'"$SNAP"'/usr/lib/budgie-welcome/budgie-welcome-privileged-actions</annotate>#' /usr/share/polkit-1/actions/org.budgie.welcome.policy
+sed -i 's#<annotate key="org.freedesktop.policykit.exec.path">/usr/lib/ubuntucinnamon-welcome/ubuntucinnamon-welcome-privileged-actions</annotate>#<annotate key="org.freedesktop.policykit.exec.path">'"$SNAP"'/usr/lib/ubuntucinnamon-welcome/ubuntucinnamon-welcome-privileged-actions</annotate>#' /usr/share/polkit-1/actions/org.cinnamon.welcome.policy
 exit 0

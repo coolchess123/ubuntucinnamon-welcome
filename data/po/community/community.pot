@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
@@ -42,19 +42,19 @@ msgstr ""
 
 #: community.html:40
 msgid ""
-"An alternative way to get in touch is via our official IRC (Internet Relay "
+"An alternative way to get in touch is via our official Telegram (Internet Relay "
 "Chat) channel."
 msgstr ""
 
 #: community.html:42
 msgid ""
 "If you disconnect from the channel you will not receive a notification of "
-"any reply. So either leave an IRC session open - or we recommend connecting "
-"to all ubuntu IRC channels via an IRC bouncer."
+"any reply. So either leave an Telegram session open - or we recommend connecting "
+"to all ubuntu Telegram channels via an Telegram bouncer."
 msgstr ""
 
 #: community.html:48
-msgid "#Ubuntu-Budgie on FreeNode"
+msgid "#Ubuntu-Cinnamon on FreeNode"
 msgstr ""
 
 #: community.html:57
@@ -100,5 +100,5 @@ msgid ""
 msgstr ""
 
 #: community.html:132, 140
-msgid "Ubuntu Budgie Brasil"
+msgid "Ubuntu Cinnamon Brasil"
 msgstr ""

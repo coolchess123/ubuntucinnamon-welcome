@@ -3,11 +3,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: SD SkyKlouD <koongchi135@gmail.com>, 2018\n"
-"Language-Team: Korean (https://www.transifex.com/ubuntu-budgie/teams/72251/ko/)\n"
+"Language-Team: Korean (https://www.transifex.com/ubuntu-cinnamon/teams/72251/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -123,8 +123,8 @@ msgid "Accessible to all, regardless of language and physical ability."
 msgstr "언어와 신체적 차이를 불문하고 모두가 사용할 수 있는 운영 체제"
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
-msgstr "우분투와 Budgie 데스크톱을 같이 사용하는 사용자 증가"
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
+msgstr "우분투와 Cinnamon 데스크톱을 같이 사용하는 사용자 증가"
 
 #: introduction.html:88
 msgid ""
@@ -185,12 +185,12 @@ msgstr ""
 "name\"></span>는 우분투를 기반으로 만든 배포판으로, 다음 데스크톱 환경을 사용합니다. :"
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "Budgie 데스크톱"
+msgid "Cinnamon desktop"
+msgstr "Cinnamon 데스크톱"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Budgie 데스크톱"
+msgid "Cinnamon Desktop"
+msgstr "Cinnamon 데스크톱"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -254,9 +254,9 @@ msgstr "설정"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
-msgstr "Budgie 데스크톱은 전통적인 메타포를 이용한 직관적이고 매력적인 데스크톱 환경입니다."
+msgstr "Cinnamon 데스크톱은 전통적인 메타포를 이용한 직관적이고 매력적인 데스크톱 환경입니다."
 
 #: introduction.html:187
 msgid "or"
@@ -272,12 +272,12 @@ msgstr "오픈 소스"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"리눅스, 우분투 및 Budgie 데스크톱은 모두 오픈 소스라는 공통점을 가지고 있습니다. 이러한 소프트웨어는 누구든지 무료로 사용할 수 "
+"리눅스, 우분투 및 Cinnamon 데스크톱은 모두 오픈 소스라는 공통점을 가지고 있습니다. 이러한 소프트웨어는 누구든지 무료로 사용할 수 "
 "있고, 변경할 수 있으며, 변경이 되었든 되지 않았든 공유할 수 있습니다. 이에 따라 <span name=\"distro-"
 "name\"></span>는 말 그대로 무료입니다."
 
@@ -335,7 +335,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "

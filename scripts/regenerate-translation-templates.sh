@@ -23,8 +23,8 @@ for page in $(ls $html_po_folder); do
   rm "$html_po_folder/$page/$page.pot" -v
 done
 
-rm "$welcome_po_folder/budgie-welcome.pot"
-pygettext -d ./po/budgie-welcome budgie-welcome
+rm "$welcome_po_folder/ubuntucinnamon-welcome.pot"
+pygettext -d ./po/ubuntucinnamon-welcome ubuntucinnamon-welcome
 
 cd scripts/ || exit
 ./translation-support.py create-all-pots

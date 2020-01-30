@@ -4,11 +4,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Afrizal Yusren <yusrenz@gmail.com>, 2018\n"
-"Language-Team: Indonesian (Indonesia) (https://www.transifex.com/ubuntu-budgie/teams/72251/id_ID/)\n"
+"Language-Team: Indonesian (Indonesia) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -137,8 +137,8 @@ msgstr ""
 "Dapat diakses oleh semua orang, tanpa memandang bahasa dan kemampuan fisik."
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
-msgstr "Meningkatkan adopsi pengguna desktop Ubuntu dan Budgie."
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
+msgstr "Meningkatkan adopsi pengguna desktop Ubuntu dan Cinnamon."
 
 #: introduction.html:88
 msgid ""
@@ -208,12 +208,12 @@ msgstr ""
 "menambahkan"
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "Desktop Budgie"
+msgid "Cinnamon desktop"
+msgstr "Desktop Cinnamon"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Desktop Budgie"
+msgid "Cinnamon Desktop"
+msgstr "Desktop Cinnamon"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -281,10 +281,10 @@ msgstr "Pengaturan"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
-"Desktop Budgie yang menyediakan lingkungan desktop yang intuitif dan menarik"
+"Desktop Cinnamon yang menyediakan lingkungan desktop yang intuitif dan menarik"
 " menggunakan paradigma tradisional, yang berarti Anda bisa jadi pernah "
 "menggunakannya."
 
@@ -302,12 +302,12 @@ msgstr "Sumber Terbuka"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"Yang sama-sama dimiliki Linux, Ubuntu dan Budgie desktop adalah Open Source."
+"Yang sama-sama dimiliki Linux, Ubuntu dan Cinnamon desktop adalah Open Source."
 " Perangkat lunak ini dapat digunakan secara bebas, diubah, dan dibagikan "
 "(dalam bentuk yang dimodifikasi atau tidak dimodifikasi) oleh siapa pun. "
 "Singkatnya<span name=\"distro-name\"></span> adalah bebas, dalam arti "
@@ -386,7 +386,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "
@@ -397,7 +397,7 @@ msgstr ""
 "karyawan dari organisasi yang menggunakan sistem operasi, Anda adalah "
 "anggota komunitas Linux dan Open Source dan mendapatkan manfaat dari upaya "
 "para pengembang yang berkontribusi dan proyek <span name=\"distro-"
-"name\"></span> terkait: Linux, desktop Budgie, dan Ubuntu. Anggota komunitas"
+"name\"></span> terkait: Linux, desktop Cinnamon, dan Ubuntu. Anggota komunitas"
 " menjalankan Linux di hampir semua perangkat keras, dari Macbook tercantik "
 "hingga netbook termurah, dari Chromebook terbaru hingga beberapa komputer "
 "yang sangat tua yang dirancang untuk Windows, dan dari server Internet "

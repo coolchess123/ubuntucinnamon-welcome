@@ -28,7 +28,7 @@
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": false,
         "dark-theme": true

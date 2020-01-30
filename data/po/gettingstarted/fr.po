@@ -13,11 +13,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Jean-Elie ARGYRE <remy.argyre@gmail.com>, 2019\n"
-"Language-Team: French (https://www.transifex.com/ubuntu-budgie/teams/72251/fr/)\n"
+"Language-Team: French (https://www.transifex.com/ubuntu-cinnamon/teams/72251/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1343,15 +1343,15 @@ msgstr ""
 "place une interface ressemblant à d'autres systèmes d'exploitation?"
 
 #: gettingstarted.html:1019
-msgid "Budgie Desktop Settings"
-msgstr "Paramètres du bureau Budgie"
+msgid "Cinnamon Desktop Settings"
+msgstr "Paramètres du bureau Cinnamon"
 
 #: gettingstarted.html:1022
 msgid ""
-"<b>Budgie Desktop Settings</b> can be found later in the menu <b>System "
+"<b>Cinnamon Desktop Settings</b> can be found later in the menu <b>System "
 "Tools</b>."
 msgstr ""
-"<b>Paramètres du bureau Budgie</b> se trouvent dans le menu <b>Outils "
+"<b>Paramètres du bureau Cinnamon</b> se trouvent dans le menu <b>Outils "
 "Système</b>."
 
 #: gettingstarted.html1027, 1033
@@ -1386,12 +1386,12 @@ msgstr ""
 "⌘."
 
 #: gettingstarted.html:1059
-msgid "Budgie Desktop shortcuts"
-msgstr "Raccourcis pour l'environnement de bureau Budgie"
+msgid "Cinnamon Desktop shortcuts"
+msgstr "Raccourcis pour l'environnement de bureau Cinnamon"
 
 #: gettingstarted.html:1060
-msgid "Some common shortcuts used in Budgie Desktop"
-msgstr "Raccourcis clavier à utiliser dans l'environnement de bureau Budgie"
+msgid "Some common shortcuts used in Cinnamon Desktop"
+msgstr "Raccourcis clavier à utiliser dans l'environnement de bureau Cinnamon"
 
 #: gettingstarted.html:1070
 msgid "Open notifications in Raven"

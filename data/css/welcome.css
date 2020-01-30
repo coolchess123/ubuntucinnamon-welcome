@@ -132,7 +132,7 @@ body, button {
 
 .button-group .btn-icon {
   vertical-align: middle;
-  color: #4c8ac9;
+  color: #258EC6;
   width: 20px; 
 }
 
@@ -195,7 +195,7 @@ a {
 *************************/
 
 #footer {
-  background: #404552;
+  background: #C65D25;
   position: fixed;
   bottom: 0;
   height: 64px;
@@ -219,7 +219,7 @@ a {
   display: inline-block;
 }
 .hover-menu-block .hover-menu {
-  background: #404552;
+  background: #C65D25;
   z-index: 15;
   position: absolute;
   /*bottom: -18px;
@@ -445,7 +445,7 @@ hr.soften-light {
   padding-top: 60px;
   padding-bottom: 50px;
   position: fixed;
-  background: #404552;
+  background: #C65D25;
   color: #fff;
   z-index: 8;
   display: none;
@@ -602,7 +602,7 @@ hr.soften-light {
  * Community page styles
 *************************/
 .social-banner {
-  background: #404552;
+  background: #C65D25;
   height: 72px;
   text-align: center;
 }
@@ -622,14 +622,14 @@ hr.soften-light {
 *******************************/
 .btn-inverse {
   color: white;
-  background-color: #404552;
+  background-color: #C65D25;
   margin: 2px;
   transition: background 0.2s ease;
 }
 
 .btn-inverse:hover {
   color: white;
-  background-color: #5c616c;
+  background-color: #9a481d;
 }
 
 .btn-inverse:active {
@@ -650,7 +650,7 @@ hr.soften-light {
 }
 
 .btn-primary {
-  background: #4c8ac9;
+  background: #258EC6;
   transition: background 0.2s ease;
 }
 
@@ -733,7 +733,7 @@ a:hover:not([href]):not([tabindex]).btn {
 }
 
 #popup-message-container {
-  background: #404552;
+  background: #C65D25;
   width: 50%;
   margin: auto;
   padding: 15px;

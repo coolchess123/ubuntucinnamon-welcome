@@ -3,11 +3,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Moo, 2019\n"
-"Language-Team: Lithuanian (https://www.transifex.com/ubuntu-budgie/teams/72251/lt/)\n"
+"Language-Team: Lithuanian (https://www.transifex.com/ubuntu-cinnamon/teams/72251/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1324,15 +1324,15 @@ msgstr ""
 "išvaizdą ir turinį."
 
 #: gettingstarted.html:1019
-msgid "Budgie Desktop Settings"
-msgstr "Budgie darbalaukio nustatymai"
+msgid "Cinnamon Desktop Settings"
+msgstr "Cinnamon darbalaukio nustatymai"
 
 #: gettingstarted.html:1022
 msgid ""
-"<b>Budgie Desktop Settings</b> can be found later in the menu <b>System "
+"<b>Cinnamon Desktop Settings</b> can be found later in the menu <b>System "
 "Tools</b>."
 msgstr ""
-"<b>Budgie darbalaukio nustatymus</b> vėliau galima rasti meniu <b>Sistemos "
+"<b>Cinnamon darbalaukio nustatymus</b> vėliau galima rasti meniu <b>Sistemos "
 "įrankiai</b>."
 
 #: gettingstarted.html1027, 1033
@@ -1366,12 +1366,12 @@ msgstr ""
 "Windows klavišas. Mac klaviatūrose, tai yra ⌘ Command klavišas."
 
 #: gettingstarted.html:1059
-msgid "Budgie Desktop shortcuts"
-msgstr "Budgie darbalaukio trumpiniai"
+msgid "Cinnamon Desktop shortcuts"
+msgstr "Cinnamon darbalaukio trumpiniai"
 
 #: gettingstarted.html:1060
-msgid "Some common shortcuts used in Budgie Desktop"
-msgstr "Kai kurie paplitę trumpiniai, naudojami Budgie darbalaukyje"
+msgid "Some common shortcuts used in Cinnamon Desktop"
+msgstr "Kai kurie paplitę trumpiniai, naudojami Cinnamon darbalaukyje"
 
 #: gettingstarted.html:1070
 msgid "Open notifications in Raven"

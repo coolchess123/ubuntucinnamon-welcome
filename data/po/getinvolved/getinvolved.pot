@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
@@ -132,7 +132,7 @@ msgstr ""
 
 #: getinvolved.html:47
 msgid ""
-"Upstream to us is budgie-desktop. Created by Solus, they are looking for C "
+"Upstream to us is cinnamon-desktop. Created by Solus, they are looking for C "
 "developers - so please help if you can."
 msgstr ""
 
@@ -151,7 +151,7 @@ msgid "Retry"
 msgstr ""
 
 #: getinvolved.html:76
-msgid "Budgie Desktop GitHub"
+msgid "Cinnamon Desktop GitHub"
 msgstr ""
 
 #: getinvolved.html:83

@@ -3,11 +3,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-22 21:33+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>, 2019\n"
-"Language-Team: Portuguese (Portugal) (https://www.transifex.com/ubuntu-budgie/teams/72251/pt_PT/)\n"
+"Language-Team: Portuguese (Portugal) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,11 +25,11 @@ msgstr "Repositório backports"
 
 #: recommendations.html:22
 msgid ""
-"To provide the most up-to-date versions of budgie-desktop and other "
+"To provide the most up-to-date versions of cinnamon-desktop and other "
 "associated packages, we recommend to enable the <span name=\"distro-"
 "name\"></span> backports repository."
 msgstr ""
-"Para fornecer as versões mais atualizadas do Budgie Desktop e de outros "
+"Para fornecer as versões mais atualizadas do Cinnamon Desktop e de outros "
 "pacotes associados, recomendamos ativar o repositório backports do <span "
 "name=\"distro-name\"></span>."
 

@@ -4,11 +4,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: abuyop <abuyop@gmail.com>, 2019\n"
-"Language-Team: Malay (Malaysia) (https://www.transifex.com/ubuntu-budgie/teams/72251/ms_MY/)\n"
+"Language-Team: Malay (Malaysia) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/ms_MY/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -140,8 +140,8 @@ msgstr ""
 "Boleh dicapai untuk semua orang, tidak mengira bahasa dan keupayaan fizikal."
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
-msgstr "Tingkatkan penggunaan kedua-dua Ubuntu dan desktop Budgie."
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
+msgstr "Tingkatkan penggunaan kedua-dua Ubuntu dan desktop Cinnamon."
 
 #: introduction.html:88
 msgid ""
@@ -211,12 +211,12 @@ msgstr ""
 "tambah"
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "Desktop Budgie"
+msgid "Cinnamon desktop"
+msgstr "Desktop Cinnamon"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Desktop Budgie"
+msgid "Cinnamon Desktop"
+msgstr "Desktop Cinnamon"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -284,10 +284,10 @@ msgstr "Tetapan"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
-"Desktop Budgie menyediakan satu persekitaran desktop yang menarik dan "
+"Desktop Cinnamon menyediakan satu persekitaran desktop yang menarik dan "
 "berintuitif iaitu dengan penggunaan metafora tradisional, bermaksud anda "
 "seolah-oleh pernah menggunakannya"
 
@@ -305,12 +305,12 @@ msgstr "Sumber Terbuka"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"Apakah persamaan Linux, Ubuntu dan desktop Budgie? iaitu kesemuanya adalah "
+"Apakah persamaan Linux, Ubuntu dan desktop Cinnamon? iaitu kesemuanya adalah "
 "bersumber Terbuka. Perisian ini boleh digunakan secara percuma, boleh "
 "diubahsuai, dan dikongsi bersama-sama (dalam bentuk diubahsuai, atau asal) "
 "oleh sesiapa sahaja. Secara harfiahnya <span name=\"distro-name\"></span> "
@@ -389,7 +389,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "
@@ -401,7 +401,7 @@ msgstr ""
 "pengoperasian, anda merupakan ahli komuniti Linux dan Sumber Terbuka yang "
 "mana mendapat manafaat daripada usaha-usaha pembangun yang memberi sumbangan"
 " pada <span name=\"distro-name\"></span> dan projek berkaitan dengannya: "
-"Linux, Dekstop Budgie, dan Ubuntu. Ahli-ahli komuniti yang menjalankan Linux"
+"Linux, Dekstop Cinnamon, dan Ubuntu. Ahli-ahli komuniti yang menjalankan Linux"
 " pada hampir kebanyakan perkakasan, dari Macbook yang serba canggih "
 "sehinggalah pada netbook berharga murah, dari Chromebook yang terkini "
 "sehinggalah pada beberapa jenis komputer sangat berusia yang direka khusus "

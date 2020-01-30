@@ -9,11 +9,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-22 21:33+0000\n"
 "Last-Translator: fd0badd786d230003e572856fa987370, 2018\n"
-"Language-Team: German (Germany) (https://www.transifex.com/ubuntu-budgie/teams/72251/de_DE/)\n"
+"Language-Team: German (Germany) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,12 +35,12 @@ msgstr "Schreibtischlayout"
 
 #: default.html:33
 msgid ""
-"There are several additional Budgie Desktop compatible themes available. "
-"Budgie Welcome provides a simple method to switch your desktop appearance "
+"There are several additional Cinnamon Desktop compatible themes available. "
+"Cinnamon Welcome provides a simple method to switch your desktop appearance "
 "(theme, fonts, icons, desktop wallpaper)."
 msgstr ""
-"Es stehen mehrere zusätzliche Budgie Desktop-kompatible Themen zur "
-"Verfügung. Willkommen zu Budgie stellt eine einfache Methode zur Verfügung, "
+"Es stehen mehrere zusätzliche Cinnamon Desktop-kompatible Themen zur "
+"Verfügung. Willkommen zu Cinnamon stellt eine einfache Methode zur Verfügung, "
 "um das Aussehen Ihres Desktops zu ändern (Thema, Schriftarten, Symbole, "
 "Desktop-Hintergrund)."
 
@@ -91,8 +91,8 @@ msgid "Default"
 msgstr "Standard"
 
 #: default.html:309
-msgid "Classic Budgie"
-msgstr "Budgie klassisch"
+msgid "Classic Cinnamon"
+msgstr "Cinnamon klassisch"
 
 #: default.html:321
 msgid "Classic GNOME"
@@ -122,5 +122,5 @@ msgstr ""
 "rückgängig machen und die Standardkonfiguration wiederherstellen."
 
 #: default.html:338
-msgid "Reset Budgie Panel"
-msgstr "Budgie Leiste zurücksetzen"
+msgid "Reset Cinnamon Panel"
+msgstr "Cinnamon Leiste zurücksetzen"

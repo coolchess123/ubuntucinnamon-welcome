@@ -16,11 +16,11 @@
 # You should have received a copy of the GNU General Public License
 # along with welcome-po. If not, see <http://www.gnu.org/licenses/>.
 #
-# Originally written for budgie-welcome. Adapted for budgie-welcome.
+# Originally written for ubuntucinnamon-welcome. Adapted for ubuntucinnamon-welcome.
 #
 
 
-"""  i18n helper for Budgie Welcome
+"""  i18n helper for Cinnamon Welcome
 
 Perform one of the following functions depending on the command line args
 
@@ -51,15 +51,15 @@ def show_usage():
 
     print("\nwelcome-po usage")
     print("\nUsage: welcome-po [arguments]")
-    print("  --create-pot                Create a budgie-welcome.pot in the po directory")
+    print("  --create-pot                Create a ubuntucinnamon-welcome.pot in the po directory")
     print("                              (can also be used when whenever new translatable strings")
-    print("                               are added to budgie-welcome.\n")
+    print("                               are added to ubuntucinnamon-welcome.\n")
     print("  --update-pos                Update all .po files in the .po directory with new")
     print("                              translateable strings from the .pot file\n")
     print("  --install                   Compile all of the .po files in the po directory")
     print("                              and install them under ./locale/\n")
     print("  --help                      Show this message\n")
-    print(" Requirements:                Must be run in the same directory as budgie-welcome")
+    print(" Requirements:                Must be run in the same directory as ubuntucinnamon-welcome")
     print("                              Requires xgettext, pot2po, msgmerge, msgfmt \n")
 
 
@@ -84,12 +84,12 @@ def create_pot(po_dir):
     if not (os.path.exists(po_dir)):
         os.mkdir(po_dir)
 
-    pot_file = os.path.join(po_dir,"budgie-welcome.pot")
+    pot_file = os.path.join(po_dir,"ubuntucinnamon-welcome.pot")
 
     subprocess.call(["xgettext",
-	             "-d", "budgie-welcome",    # domain name
+	             "-d", "ubuntucinnamon-welcome",    # domain name
 	             "-o", pot_file,                 # output file
-                     "budgie-welcome",          # input file
+                     "ubuntucinnamon-welcome",          # input file
                      "-L", "Python"])                # Language
 
     print ("%s created.\n" %pot_file)
@@ -106,9 +106,9 @@ def update_pos(po_dir):
     Args: po_dir - the directory containing the .po files
     """
 
-    pot_file = os.path.join(po_dir,"budgie-welcome.pot")
+    pot_file = os.path.join(po_dir,"ubuntucinnamon-welcome.pot")
     if not os.path.exists(pot_file):
-        print("Error: budgie-welcome.pot does not exist")
+        print("Error: ubuntucinnamon-welcome.pot does not exist")
         exit()
 
     po_files = glob.glob(os.path.join(po_dir, '*.po'))
@@ -151,7 +151,7 @@ def compile_and_install(po_dir, locale_dir):
 
         #now compile and install the .po
         print ("processing %s" %po_file)
-        output_file = os.path.join(lcm_dir, "budgie-welcome.mo")
+        output_file = os.path.join(lcm_dir, "ubuntucinnamon-welcome.mo")
 
         subprocess.call(["msgfmt", po_file,
 	             "--output-file", output_file])
@@ -164,8 +164,8 @@ if (len(sys.argv)==1) or (sys.argv[1]=="--help"):
     show_usage()
     exit()
 
-if not os.path.exists("../budgie-welcome"):
-    print("Error: Need to be in the scripts directory for budgie-welcome...")
+if not os.path.exists("../ubuntucinnamon-welcome"):
+    print("Error: Need to be in the scripts directory for ubuntucinnamon-welcome...")
     exit()
 
 source_dir = '../'

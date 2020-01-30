@@ -4,11 +4,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Nicola Gentile <nikkognt@gmail.com>, 2019\n"
-"Language-Team: Italian (https://www.transifex.com/ubuntu-budgie/teams/72251/it/)\n"
+"Language-Team: Italian (https://www.transifex.com/ubuntu-cinnamon/teams/72251/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -138,8 +138,8 @@ msgstr ""
 "Accessibile a tutti, indipendentemente dalla lingua e dalla abilità fisica."
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
-msgstr "Aumentare l'adozione sia di Ubuntu che di Budgie."
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
+msgstr "Aumentare l'adozione sia di Ubuntu che di Cinnamon."
 
 #: introduction.html:88
 msgid ""
@@ -209,12 +209,12 @@ msgstr ""
 "prende il cuore di Ubuntu e gli aggiunge il "
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "Budgie desktop"
+msgid "Cinnamon desktop"
+msgstr "Cinnamon desktop"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Budgie Desktop"
+msgid "Cinnamon Desktop"
+msgstr "Cinnamon Desktop"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -280,10 +280,10 @@ msgstr "Impostazioni"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
-"L'ambiente desktop Budgie fornisce una interfaccia intuitiva ed attraente "
+"L'ambiente desktop Cinnamon fornisce una interfaccia intuitiva ed attraente "
 "usando una metafora tradizionale, ciò significa che se tu hai mai usato "
 
 #: introduction.html:187
@@ -300,12 +300,12 @@ msgstr "Open Source"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"Quello che Linux, Ubuntu e Budgie desktop hanno in comune è che sono tutti "
+"Quello che Linux, Ubuntu e Cinnamon desktop hanno in comune è che sono tutti "
 "Open Source. Questi software possono essere usati liberamente, cambiati, e "
 "condivisi (in forma modificata o non) da chiunque. Brevemente  <span name"
 "=\"distro-name\"></span> è libero, nel vero senso della parola."
@@ -381,7 +381,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "
@@ -392,7 +392,7 @@ msgstr ""
 "name\"></span>, o un impiegato di una organizzazione che usa il sistema "
 "operativo, sei un membro di Linux e delle comunità Open Source, e benefici "
 "dagli sforzi degli sviluppatori che contribuiscono a <span name=\"distro-"
-"name\"></span> e ai progetti relativi: Linux, Budgie desktop e Ubuntu. I "
+"name\"></span> e ai progetti relativi: Linux, Cinnamon desktop e Ubuntu. I "
 "membri della comunità che usano Linux su qualsiasi hardware, dal più bel "
 "Macbook al più economico netbook, dai nuovi Chromebook fino ad alcune "
 "macchine veramente vecchie pensate per Windows, e dai più potenti server di "

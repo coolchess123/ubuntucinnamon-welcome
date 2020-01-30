@@ -1,6 +1,6 @@
 # Coding standards
 ----
-Following conventions should be followed while contributing to `budgie-welcome` project.
+Following conventions should be followed while contributing to `ubuntucinnamon-welcome` project.
 - Use 4 spaces for indentation of code
 - Limit all lines to a maximum of 79 characters. 
 - Lines should be broken before binary operators as it gives better readability.

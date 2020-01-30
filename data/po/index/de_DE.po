@@ -7,11 +7,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: fd0badd786d230003e572856fa987370, 2018\n"
-"Language-Team: German (Germany) (https://www.transifex.com/ubuntu-budgie/teams/72251/de_DE/)\n"
+"Language-Team: German (Germany) (https://www.transifex.com/ubuntu-cinnamon/teams/72251/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -72,8 +72,8 @@ msgid "Install Software"
 msgstr "Software installieren"
 
 #: index.html:114
-msgid "Budgie Applets"
-msgstr "Budgie Anwendungen"
+msgid "Cinnamon Applets"
+msgstr "Cinnamon Anwendungen"
 
 #: index.html:117
 msgid "Software Center"

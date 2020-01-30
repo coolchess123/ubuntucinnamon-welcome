@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
@@ -1052,12 +1052,12 @@ msgid ""
 msgstr ""
 
 #: gettingstarted.html:1019
-msgid "Budgie Desktop Settings"
+msgid "Cinnamon Desktop Settings"
 msgstr ""
 
 #: gettingstarted.html:1022
 msgid ""
-"<b>Budgie Desktop Settings</b> can be found later in the menu <b>System "
+"<b>Cinnamon Desktop Settings</b> can be found later in the menu <b>System "
 "Tools</b>."
 msgstr ""
 
@@ -1085,11 +1085,11 @@ msgid ""
 msgstr ""
 
 #: gettingstarted.html:1059
-msgid "Budgie Desktop shortcuts"
+msgid "Cinnamon Desktop shortcuts"
 msgstr ""
 
 #: gettingstarted.html:1060
-msgid "Some common shortcuts used in Budgie Desktop"
+msgid "Some common shortcuts used in Cinnamon Desktop"
 msgstr ""
 
 #: gettingstarted.html:1070

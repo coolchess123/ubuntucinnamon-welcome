@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: recommendations.html:22
 msgid ""
-"To provide the most up-to-date versions of budgie-desktop and other "
+"To provide the most up-to-date versions of cinnamon-desktop and other "
 "associated packages, we recommend to enable the <span name=\"distro-"
 "name\"></span> backports repository."
 msgstr ""

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;
+StartupNotify=false
+Name=Cinnamon Themes
+Exec=ubuntucinnamon-welcome --jump-to=default
+Icon=distributor-logo-ubuntu-cinnamon
+Comment=Give the desktop a makeover with new themes, icons and fonts
+Keywords=desktop;preferences;
+OnlyShowIn=Cinnamon;
+StartupWMClass=ubuntucinnamon-welcome

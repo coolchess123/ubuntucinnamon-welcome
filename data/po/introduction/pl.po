@@ -4,11 +4,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: roypen <roypen88@gmail.com>, 2019\n"
-"Language-Team: Polish (https://www.transifex.com/ubuntu-budgie/teams/72251/pl/)\n"
+"Language-Team: Polish (https://www.transifex.com/ubuntu-cinnamon/teams/72251/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -143,10 +143,10 @@ msgstr ""
 "Dostępny dla wszystkich, niezależnie od języka i sprawności fizycznych."
 
 #: introduction.html:87
-msgid "Increase both Ubuntu and Budgie desktop user adoption."
+msgid "Increase both Ubuntu and Cinnamon desktop user adoption."
 msgstr ""
 "Przyciągnięcie większej liczby użytkowników zarówno samego systemu Ubuntu, "
-"jaki i pulpitu Budgie."
+"jaki i pulpitu Cinnamon."
 
 #: introduction.html:88
 msgid ""
@@ -217,12 +217,12 @@ msgstr ""
 "name\"></span> zostało stworzone na bazie  Ubuntu, implementując w nim"
 
 #: introduction.html:121
-msgid "Budgie desktop"
-msgstr "Pulpit Budgie"
+msgid "Cinnamon desktop"
+msgstr "Pulpit Cinnamon"
 
 #: introduction.html:127
-msgid "Budgie Desktop"
-msgstr "Pulpit Budgie"
+msgid "Cinnamon Desktop"
+msgstr "Pulpit Cinnamon"
 
 #: introduction.html:134
 msgid "Wikipedia says that a"
@@ -293,10 +293,10 @@ msgstr "Ustawienia"
 
 #: introduction.html:183
 msgid ""
-"Budgie desktop provides an intuitive and attractive desktop environment "
+"Cinnamon desktop provides an intuitive and attractive desktop environment "
 "using traditional metaphors, which means if you've ever used"
 msgstr ""
-"Pulpit Budgie dostarcza intuicyjne i atrakcyjne wizualnie środowisko "
+"Pulpit Cinnamon dostarcza intuicyjne i atrakcyjne wizualnie środowisko "
 "tradycyjnego pulpitu, co oznacza, że jeżeli kiedykolwiek używałeś systemów"
 
 #: introduction.html:187
@@ -313,12 +313,12 @@ msgstr "Open Source"
 
 #: introduction.html:203
 msgid ""
-"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"What Linux, Ubuntu and Cinnamon desktop all have in common is they are Open "
 "Source. This software can be freely used, changed, and shared (in modified "
 "or unmodified form) by anyone. In a nutshell <span name=\"distro-"
 "name\"></span> is free, in the truest sense of the word."
 msgstr ""
-"To co łączy Linux, Ubuntu i pulpit Budgie to idea Open Source. To "
+"To co łączy Linux, Ubuntu i pulpit Cinnamon to idea Open Source. To "
 "oprogramowanie może być swobodnie używane, zmieniane i udostępniane (w "
 "postaci zarówno zmodyfikowanej i oryginalnej). Mówiąc w skrócie, <span name"
 "=\"distro-name\"></span> jest wolnym oprogramowaniem - ang. free, w "
@@ -396,7 +396,7 @@ msgid ""
 "employee of an organization that uses the operating system, you are a member"
 " of the Linux and Open Source communities and benefit from the efforts of "
 "the developers who contribute to <span name=\"distro-name\"></span> and its "
-"related projects: Linux, Budgie desktop, and Ubuntu. Members of the "
+"related projects: Linux, Cinnamon desktop, and Ubuntu. Members of the "
 "community run Linux on almost any hardware, from the prettiest Macbook to "
 "the cheapest netbook, from the newest Chromebook to some very old machines "
 "designed for Windows, and from the most powerful Internet servers to the "
@@ -407,7 +407,7 @@ msgstr ""
 " systemu operacyjnego, to stanowisz część społeczności Linux oraz Open "
 "Source i korzystasz z wysiłku włożonego przez programistów uczestniczących w"
 " projekcie <span name=\"distro-name\"></span> oraz projektach powiązanych: "
-"Linux, pulpit Budgie oraz Ubuntu. Członkowie społeczności uruchamiają system"
+"Linux, pulpit Cinnamon oraz Ubuntu. Członkowie społeczności uruchamiają system"
 " Linux go na niemal każdej konfiguracji sprzętowej: od pięknych Macbooków do"
 " najtańszych netbooków, od najnowszych Chromebooków po starsze komputery "
 "projektowane z myślą o Windows, od najpotężniejszych serwerów internetowych "

@@ -103,7 +103,7 @@ def create_pot_file (input_file, pot_file, verbose):
     if new_file:
         pofile = polib.POFile()
         pofile.metadata= {
-            "Project-Id-Version": "Budgie Welcome",
+            "Project-Id-Version": "Cinnamon Welcome",
             "Report-Msgid-Bugs-To ": "you@example.com",
             "POT-Creation-Date": "2016-02-27 12:48+0100",
             "PO-Revision-Date": "YEAR-MO-DA HO:MI+ZONE",

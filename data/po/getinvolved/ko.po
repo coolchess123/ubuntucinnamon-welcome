@@ -3,11 +3,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: SD SkyKlouD <koongchi135@gmail.com>, 2017\n"
-"Language-Team: Korean (https://www.transifex.com/ubuntu-budgie/teams/72251/ko/)\n"
+"Language-Team: Korean (https://www.transifex.com/ubuntu-cinnamon/teams/72251/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -156,10 +156,10 @@ msgstr ""
 
 #: getinvolved.html:47
 msgid ""
-"Upstream to us is budgie-desktop. Created by Solus, they are looking for C "
+"Upstream to us is cinnamon-desktop. Created by Solus, they are looking for C "
 "developers - so please help if you can."
 msgstr ""
-"저희의 업스트림은 budgie-desktop입니다. Solus에서 만들었고, C언어 개발자를 찾고 있죠. 고로 가능하시다면 꼭 저희를 "
+"저희의 업스트림은 cinnamon-desktop입니다. Solus에서 만들었고, C언어 개발자를 찾고 있죠. 고로 가능하시다면 꼭 저희를 "
 "도와주시기 바랍니다."
 
 #: getinvolved.html:51
@@ -177,8 +177,8 @@ msgid "Retry"
 msgstr "재시도"
 
 #: getinvolved.html:76
-msgid "Budgie Desktop GitHub"
-msgstr "Budgie 데스크톱 GitHub"
+msgid "Cinnamon Desktop GitHub"
+msgstr "Cinnamon 데스크톱 GitHub"
 
 #: getinvolved.html:83
 msgid ""

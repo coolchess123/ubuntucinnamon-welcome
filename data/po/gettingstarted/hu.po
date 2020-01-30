@@ -5,11 +5,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Budgie Welcome\n"
+"Project-Id-Version: Cinnamon Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
 "Last-Translator: Benjamin Piller <benpiller@gmail.com>, 2019\n"
-"Language-Team: Hungarian (https://www.transifex.com/ubuntu-budgie/teams/72251/hu/)\n"
+"Language-Team: Hungarian (https://www.transifex.com/ubuntu-cinnamon/teams/72251/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1315,15 +1315,15 @@ msgstr ""
 "kinézetre és érzetre állítsa. "
 
 #: gettingstarted.html:1019
-msgid "Budgie Desktop Settings"
-msgstr "Budgie Asztalbeállítások"
+msgid "Cinnamon Desktop Settings"
+msgstr "Cinnamon Asztalbeállítások"
 
 #: gettingstarted.html:1022
 msgid ""
-"<b>Budgie Desktop Settings</b> can be found later in the menu <b>System "
+"<b>Cinnamon Desktop Settings</b> can be found later in the menu <b>System "
 "Tools</b>."
 msgstr ""
-"A <b>Budgie Asztalbeállítások</b> később a <b>Rendszereszközök</b> menüben "
+"A <b>Cinnamon Asztalbeállítások</b> később a <b>Rendszereszközök</b> menüben "
 "található meg."
 
 #: gettingstarted.html1027, 1033
@@ -1358,12 +1358,12 @@ msgstr ""
 "Windows billentyű. A Mac billentyűzeteken ez a ⌘ parancs billentyű."
 
 #: gettingstarted.html:1059
-msgid "Budgie Desktop shortcuts"
-msgstr "Budgie Asztali parancsikonok"
+msgid "Cinnamon Desktop shortcuts"
+msgstr "Cinnamon Asztali parancsikonok"
 
 #: gettingstarted.html:1060
-msgid "Some common shortcuts used in Budgie Desktop"
-msgstr "A Budgie Asztalon használt néhány gyakori parancsikon"
+msgid "Some common shortcuts used in Cinnamon Desktop"
+msgstr "A Cinnamon Asztalon használt néhány gyakori parancsikon"
 
 #: gettingstarted.html:1070
 msgid "Open notifications in Raven"

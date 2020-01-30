@@ -11,7 +11,7 @@
       "SCHEMA": "org.gnome.desktop.interface",
       "VALUES": {
         "cursor-theme": "DMZ-White",
-        "gtk-theme": "QogirBudgie",
+        "gtk-theme": "Qogir",
         "icon-theme": "Pocillo",
         "monospace-font-name": "Ubuntu Mono 13",
         "font-name": "Ubuntu 11",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": false,
         "dark-theme": false
@@ -60,7 +60,7 @@
       "SCHEMA": "org.gnome.desktop.interface",
       "VALUES": {
         "cursor-theme": "DMZ-White",
-        "gtk-theme": "QogirBudgie",
+        "gtk-theme": "Qogir",
         "icon-theme": "Pocillo",
         "monospace-font-name": "Ubuntu Mono 13",
         "font-name": "Ubuntu 11",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": false,
         "dark-theme": false
@@ -109,7 +109,7 @@
       "SCHEMA": "org.gnome.desktop.interface",
       "VALUES": {
         "cursor-theme": "DMZ-White",
-        "gtk-theme": "QogirBudgie",
+        "gtk-theme": "Qogir",
         "icon-theme": "Pocillo",
         "monospace-font-name": "Ubuntu Mono 13",
         "font-name": "Noto Sans 11",
@@ -121,12 +121,12 @@
       "VALUES": {
         "color-shading-type": "solid",
         "picture-options": "stretched",
-        "picture-uri": "file:////usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper1.jpg",
+        "picture-uri": "file:////usr/share/backgrounds/cinnamon/ubuntu_cinnamon_wallpaper1.jpg",
         "primary-color": "#008094"
       }
     },
     {
-      "SCHEMA": "com.solus-project.budgie-panel",
+      "SCHEMA": "com.solus-project.cinnamon-panel",
       "VALUES": {
         "builtin-theme": false,
         "dark-theme": false
