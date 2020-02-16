@@ -321,23 +321,23 @@ class AppView(WebKit2.WebView):
 
     def _do_command(self, uri):
         if uri == 'control':
-            subprocess.Popen(['cinnamon-control-center'])
+            subprocess.Popen(['cinnamon-settings'])
         elif uri == 'update':
             subprocess.Popen(['update-manager'])
         elif uri == 'drivers':
             subprocess.Popen(['software-properties-gtk', '--open-tab=4'])
         elif uri == 'language':
-            subprocess.Popen(['cinnamon-control-center', 'region'])
+            subprocess.Popen(['cinnamon-settings', 'region'])
         elif uri == 'users':
-            subprocess.Popen(['cinnamon-control-center', 'user-accounts'])
+            subprocess.Popen(['cinnamon-settings', 'user-accounts'])
         elif uri == 'backup':
             subprocess.Popen(['deja-dup-preferences'])
         elif uri == 'firewall':
             subprocess.Popen(['gufw'])
-        elif uri == 'cinnamon-control-center':
-            subprocess.Popen(['cinnamon-control-center'])
+        elif uri == 'cinnamon-settings':
+            subprocess.Popen(['cinnamon-settings'])
         elif uri == 'keyboard':
-            subprocess.Popen(['cinnamon-control-center', 'keyboard'])
+            subprocess.Popen(['cinnamon-settings', 'keyboard'])
         elif uri.startswith("title?"):
             title = uri[6:]
             self.page_title.set_label(title)
@@ -395,8 +395,8 @@ class AppView(WebKit2.WebView):
             script = app._data_path + "/scripts/" + script
             run_script(script, root)
 
-        elif uri.startswith('install-os'):
-            if uri == 'install-os':
+        elif uri.startswith('calamares'):
+            if uri == 'calamares':
                 subprocess.Popen(['sudo', 'sh', '-c', "calamares gtk_ui"])
                 app.close()
 
@@ -1161,7 +1161,7 @@ class SystemState(object):
             self.distro_wordmark = 'ubuntu-cinnamon-wordmark.svg'
         else:
             self.distroname = 'cinnamon-remix'
-            self.distro_wordmark = 'cinnamon-remix-wordmark.svg'
+            self.distro_wordmark = 'ubuntu-cinnamon-wordmark.svg'
 
     def autostart_check(self):
         # Ensure our autostart directories exist

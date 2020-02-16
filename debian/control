@@ -18,8 +18,10 @@ Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-welcome.git
 
 Package: ubuntucinnamon-welcome
 Architecture: all
-Depends: gir1.2-gtk-3.0,
+Depends: boot-repair
+         gir1.2-gtk-3.0,
          gir1.2-webkit2-4.0,
+         gparted
          policykit-1,
          python3,
          python3-apt,
