@@ -40,7 +40,7 @@
       "repos": {
         "all": ["multiverse"]
       }
-    },
+    }
   },
   "gettingstarted": {
     "restricted-extras": {
