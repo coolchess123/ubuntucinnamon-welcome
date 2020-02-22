@@ -31,7 +31,7 @@
         <a class="btn btn-inverse index-btn" onclick='changePage("dualboot","Dual Booting")'>
           <i class="material-icons">&#xE401;</i>&zwnj;Dual Booting&zwnj;
         </a>
-        <a class="btn btn-primary index-btn" onclick="cmd('install-os')">
+        <a class="btn btn-primary index-btn" onclick="cmd('calamares')">
           <i class="material-icons">&#xE2C4;</i>&zwnj;Install Now&zwnj;
         </a>
       </div>
@@ -141,7 +141,7 @@
             </ul>
             <hr class="soften" />
 
-            <img src="img/applications/ubiquity.png" class="left" />
+            <img src="img/applications/calamares.png" class="left" />
             <p>&zwnj;The live session you are currently in right now is a good opportunity
               to test <span name="distro-name"></span> without modifying your computer, allowing you to
               test all of your peripherals are working as intended before committing
@@ -439,7 +439,7 @@
               </div>
               <div class="col-md-10">
                 <h4>&zwnj;Restricted Extras&zwnj;</h4>
-                <p>&zwnj;<strong>Ubuntu</strong>(the base distribution of <span name="distro-name"></span>) strives to
+                <p>&zwnj;<strong>Ubuntu</strong>( the base distribution of <span name="distro-name"></span>) strives to
                   make all
                   of the most important software available to its users automatically. However patent and copyright
                   restrictions (see Ubuntu License Policy) complicate distribution of software to support non-free
@@ -766,7 +766,7 @@
             <p>&zwnj;Nothing is more important than having a backup
               of your personal files, just in case something
               disastrous happens to your computer.&zwnj;</p>
-            <p><img src="img/applications/deja-dup.png" width="20px" height="20px" />
+            <p><img src="img/applications/deja-dup.svg" width="20px" height="20px" />
               &zwnj;<b>Deja-Dup</b> is a powerful backup utility that can be installed in
               <span name="distro-name"></span> and supports backups to
               local devices as well as online cloud-based services.&zwnj;</p>
@@ -776,7 +776,7 @@
                 class="material-icons">&#xE2C0;</span><span class="button-text">&zwnj;Install&zwnj;</span>&nbsp;</a>
             <div id="backup-remove">
               <a class="btn btn-inverse" onclick="cmd('backup');cmd('')">
-                &nbsp;<img class="button-icon" src="img/applications/deja-dup.png" />&nbsp;<span
+                &nbsp;<img class="button-icon" src="img/applications/deja-dup.svg" />&nbsp;<span
                   class="button-text">&zwnj;Configure Backup&zwnj;</span>&nbsp;
               </a>
               <span id="backup-hint" class="center"><small>
@@ -814,8 +814,8 @@
               </a>
               <span id="firewall-hint" class="center"><small>
                   <p><i class="material-icons">&#xE88F;</i> <b>&zwnj;Firewall Configuration</b> can be found later in
-                    <b><i>Settings <i class="material-icons">&#xE315;</i> System
-                        <i class="material-icons">&#xE315;</i> Firewall Configuration</i></b>.&zwnj;</p>
+                    <b><i>Settings <i class="material-icons">&#xE315;</i> Administration
+                        <i class="material-icons">&#xE315;</i> Firewall/i></b>.&zwnj;</p>
                 </small></span>
             </div>
           </div>
@@ -836,13 +836,13 @@
               is using your computer as a one-off.&zwnj;</p>
             <div class="text-md-center">
               <a class="btn btn-inverse" onclick="cmd('users');cmd('')">
-                &nbsp;<img class="button-icon" src="img/applications/users.png" />&nbsp;<span
+                &nbsp;<img class="button-icon" src="img/applications/users.svg" />&nbsp;<span
                   class="button-text">&zwnj;Configure Users&zwnj;</span>&nbsp;
               </a>
               <span id="users-hint" class="center"><small>
                   <p><i class="material-icons">&#xE88F;</i> &zwnj;<b>Users</b> can be found later in the menu
                     <b><i>Administration
-                        <i class="material-icons">&#xE315;</i> Users</i></b>.&zwnj;</p>
+                        <i class="material-icons">&#xE315;</i> Users and Groups</i></b>.&zwnj;</p>
                 </small></span>
             </div>
           </div>
@@ -1013,23 +1013,22 @@
               interface. It can be used to quickly setup the user interface
               to broadly reflect how other popular operating systems look
               and feel.&zwnj;</p>
-            <div align="center"><a class="btn btn-inverse" onclick="cmd('Cinnamon-desktop-settings');cmd('')"
+            <div align="center"><a class="btn btn-inverse" onclick="cmd('cinnamon-settings');cmd('')"
                 onclick="smoothFade('','#tweak-hint')">
-                &nbsp;<img class="button-icon" src="img/applications/raven-settings.png" />&nbsp;<span
+                &nbsp;<img class="button-icon" src="img/applications/gnome-settings.svg" />&nbsp;<span
                   class="button-text">&zwnj;Cinnamon Desktop Settings&zwnj;</span>&nbsp;
               </a></div>
-            <span id="tweak-hint" class="center"><small>
-                <p><i class="material-icons">&#xE88F;</i> &zwnj;<b>Cinnamon Desktop Settings</b> can be found later in the
-                  menu
-                  <b>System Tools</b>.&zwnj;</p>
-              </small></span>
+                <span id="tweak-hint" class="center"><small>
+                    <p><i class="material-icons">&#xE88F;</i> &zwnj;You can also change
+                      the layout of your panels to fit your feel using the Panel Layout app.&zwnj;</p>
+                  </small></span>
 
             <h2>&zwnj;Settings&zwnj;</h2>
             <p>&zwnj;The utilities mentioned above are all part of the extensive
               Settings control center that <span name="distro-name"></span> provides. You can configure
               just about every aspect of your computer from Settings.&zwnj;</p>
             <div align="center"><a class="btn btn-inverse" onclick="cmd('control');cmd('')">
-                <img class="button-icon" src="img/applications/control-center.svg" />&nbsp;<span
+                <img class="button-icon" src="img/applications/gnome-settings.svg" />&nbsp;<span
                   class="button-text">&zwnj;Settings&zwnj;</span>&nbsp;
               </a></div>
 
@@ -1056,32 +1055,136 @@
               <p>&zwnj;The <b><img src="img/welcome/super-key.svg" /> Super</b> key is your Windows key. For Mac
                 keyboards, this is the ⌘ Command key.&zwnj;</p>
             </div>
-            <h3>&zwnj;Cinnamon Desktop shortcuts&zwnj;</h3>
-            <p>&zwnj;Some common shortcuts used in Cinnamon Desktop&zwnj;</p>
 
-            <table class="shortcuts">
-              <tr>
+            <p>&zwnj;If any shortcuts do not work, try using the Function key, as you may need
+              to use it depending on your machine. It can always be switched in your PC Setup.&zwnj;</p>
+            <h3>&zwnj;Cinnamon Desktop Shortcuts&zwnj;</h3>
+            <p>&zwnj;Some common shortcuts used in the Cinnamon Desktop&zwnj;</p>
+            <table>
+                <tr>
+                  <td>
+                      <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
+                      <i class="material-icons">&#xE145;</i>
+                      <b class="btn btn-xs disabled">Alt</b>
+                      <i class="material-icons">&#xE145;</i>
+                      <b class="btn btn-xs disabled">Up</b>
+                  </td>
+                  <td>&zwnj;Show the workspace selection screen&zwnj;</td>
+                </tr>
+                <tr>
+                  <td>
+                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
+                    <i class="material-icons">&#xE145;</i>
+                    <b class="btn btn-xs disabled">Alt</b>
+                    <i class="material-icons">&#xE145;</i>
+                    <b class="btn btn-xs disabled">Down</b>
+                  <td>&zwnj;Show the window selection screen&zwnj;</td>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">D</b>
+                  </td>
+                <td>&zwnj;Show the desktop&zwnj;</td>
+            </tr>
+            <tr>
                 <td>
                   <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
                       src="img/welcome/super-key.svg"></b>&nbsp;
                   <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">N</b>
+                  <b class="btn btn-xs disabled">S</b>
                 </td>
-                <td>&zwnj;Open notifications in Raven&zwnj;</td>
-              </tr>
-              <tr>
+                <td>&zwnj;Show desklets&zwnj;</td>
+            </tr>
+            <tr>
                 <td>
                   <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
                       src="img/welcome/super-key.svg"></b>&nbsp;
                   <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">A</b>
+                  <b class="btn btn-xs disabled">P</b>
                 </td>
-                <td>&zwnj;Open applet Settings in Raven&zwnj;</td>
-              </tr>
-
-            </table>
+                <td>&zwnj;Re-detect display devices&zwnj;</td>
+            </tr>
+            <tr>
+                <td>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">O</b>
+                </td>
+                <td>&zwnj;Enable/Disable Orientation Lock&zwnj;</td>
+            </tr>
+            <tr>
+                <td>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">E</b>
+                </td>
+                <td>&zwnj;Open Home Folder&zwnj;</td>
+            </tr>
+            <tr>
+                <td>
+                  <b class="btn btn-xs disabled">Type on desktop</b>
+                </td>
+                <td>&zwnj;Search&zwnj;</td>
+            </tr>
+            <tr>
+              <td>
+                <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
+                <i class="material-icons">&#xE145;</i>
+                <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
+                <i class="material-icons">&#xE145;</i>
+                <b class="btn btn-xs disabled">&zwnj;Left&zwnj;</b>
+              </td>
+              <td>&zwnj;Switch to the left workspace.&zwnj;</td>
+            </tr>
+            <tr>
+              <td>
+                <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
+                <i class="material-icons">&#xE145;</i>
+                <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
+                <i class="material-icons">&#xE145;</i>
+                <b class="btn btn-xs disabled">&zwnj;Right&zwnj;</b>
+              </td>
+              <td>&zwnj;Switch to the right workspace.&zwnj;</td>
+            </tr>
+            <tr>
+              <td>
+                <b class="btn btn-xs disabled">&zwnj;Shift&zwnj;</b>
+                <i class="material-icons">&#xE145;</i>
+                <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
+                <i class="material-icons">&#xE145;</i>
+                <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
+                <i class="material-icons">&#xE145;</i>
+                <b class="btn btn-xs disabled">&zwnj;R&zwnj;</b>
+              </td>
+              <td>&zwnj;Toggle recording desktop (must restart Cinnamon)&zwnj;</td>
+            </tr>
+            <tr>
+                <td>
+                  <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">F2</b>
+                </td>
+                <td>&zwnj;Open run dialog&zwnj;</td>
+            </tr>
+            <tr>
+                <td>
+                  <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">Esc</b>
+                </td>
+                <td>&zwnj;Restart Cinnamon&zwnj;</td>
+            </tr>
             <hr>
-            <h3>&zwnj;Common application shortcuts&zwnj;</h3>
+          </table>
+            <h3>&zwnj;Common application Shortcuts&zwnj;</h3>
             <p>&zwnj;These shortcuts apply in most applications.&zwnj;</p>
 
             <table class="shortcuts">
@@ -1091,7 +1194,7 @@
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">Q</b>
                 </td>
-                <td>&zwnj;Toggle Tilix Quake Mode&zwnj;</td>
+                <td>&zwnj;Toggle Tilix Quake Mode (if using)&zwnj;</td>
               </tr>
               <tr>
                 <td>
@@ -1277,14 +1380,6 @@
               </tr>
               <tr>
                 <td>
-                  <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                  <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">F2</b>
-                </td>
-                <td>&zwnj;Run an application by typing its name in the box which appears&zwnj;</td>
-              </tr>
-              <tr>
-                <td>
                   <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
@@ -1295,12 +1390,35 @@
               </tr>
               <tr>
                 <td>
-                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
-                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
                   <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">L</b>
+                  <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;End&zwnj;</b>
+                </td>
+                <td>&zwnj;Shut down&zwnj;</td>
+              </tr>
+              <tr>
+                <td>
+                  <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;L&zwnj;</b>
                 </td>
                 <td>&zwnj;Lock your screen.&zwnj;</td>
+              </tr>
+              <tr>
+                <td>
+                  <b class="btn btn-xs disabled">&zwnj;Sleep&zwnj;</b>
+                </td>
+                <td>&zwnj;Suspend your computer.&zwnj;</td>
+              </tr>
+              <tr>
+                <td>
+                  <b class="btn btn-xs disabled">&zwnj;Suspend&zwnj;</b>
+                </td>
+                <td>&zwnj;Hibernate your computer.&zwnj;</td>
               </tr>
               <tr>
                 <td>
@@ -1323,14 +1441,6 @@
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">S</b>
                 </td>
-                <td>&zwnj;Call Window Shuffler gui (window tiling grid).&zwnj;
-                  <p class="text-right"></p>
-                  <a class="btn btn-inverse"
-                    onclick="cmd('link?https://www.youtube.com/watch?v=Ii4n8H4XEzc&feature=youtu.be');cmd('')">
-                    <img class="button-icon" src="img/distro-icon-inverted.svg">&nbsp;<span class="button-text">
-                      &zwnj; Video Demonstration&zwnj;</span>&nbsp;
-
-                </td>
               </tr>
               <tr>
                 <td style="width:270px;">
@@ -1349,23 +1459,27 @@
               </tr>
               <tr>
                 <td>
+                  <b class="btn btn-xs disabled">&zwnj;Shift&zwnj;</b>
+                  <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Left&zwnj;</b>
                 </td>
-                <td>&zwnj;Switch to the previous workspace.&zwnj;</td>
+                <td>&zwnj;Move window to the left workspace&zwnj;</td>
               </tr>
               <tr>
                 <td>
+                  <b class="btn btn-xs disabled">&zwnj;Shift&zwnj;</b>
+                  <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Right&zwnj;</b>
                 </td>
-                <td>&zwnj;Switch to the next workspace.&zwnj;</td>
+                <td>&zwnj;Move window to the right workspace&zwnj;</td>
               </tr>
               <tr>
                 <td>
@@ -1377,7 +1491,7 @@
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Left&zwnj;</b>
                 </td>
-                <td>&zwnj;Move the current window to the previous workspace.&zwnj;</td>
+                <td>&zwnj;Move the current window to the previous workspace&zwnj;</td>
               </tr>
               <tr>
                 <td>
@@ -1388,7 +1502,7 @@
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Right&zwnj;</b>
                 </td>
-                <td>&zwnj;Move the current window to the next workspace.&zwnj;</td>
+                <td>&zwnj;Move the current window to the next workspace&zwnj;</td>
               </tr>
               <tr>
                 <td>
@@ -1396,58 +1510,8 @@
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">F4</b>
                 </td>
-                <td>&zwnj;Closes window.&zwnj;</td>
+                <td>&zwnj;Closes window&zwnj;</td>
               </tr>
-              <tr>
-                <td>
-                  <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                  <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">F5</b>
-                </td>
-                <td>&zwnj;Returns window to 'normal' or previous size.&zwnj;</td>
-              </tr>
-              <tr>
-                <td>
-                  <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                  <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">F7</b>
-                </td>
-                <td>&zwnj;Moves the current window (can be moved with mouse or keyboard).&zwnj;</td>
-              </tr>
-              <tr>
-                <td>
-                  <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                  <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">F8</b>
-                </td>
-                <td>&zwnj;Resizes current window (again, can be moved with mouse or keyboard).&zwnj;</td>
-              </tr>
-              <tr>
-                <td>
-                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
-                      src="img/welcome/super-key.svg"></b>&nbsp;
-                  <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">H</b>
-                </td>
-                <td>&zwnj;Minimizes current window.&zwnj;</td>
-              </tr>
-              <tr>
-                <td>
-                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
-                      src="img/welcome/super-key.svg"></b>&nbsp;
-                  <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">&zwnj;Up&zwnj;</b>
-                </td>
-                <td>&zwnj;Maximizes current window.&zwnj;</td>
-              </tr>
-              <tr>
-                <td>
-                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
-                      src="img/welcome/super-key.svg"></b>&nbsp;
-                  <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">&zwnj;Down&zwnj;&nbsp;</b>
-                </td>
-                <td>&zwnj;Unmaximizes current window.&zwnj;</td>
               </tr>
               <tr>
                 <td>
@@ -1456,7 +1520,7 @@
                   <b class="btn btn-xs disabled">&zwnj;Space&zwnj;</b>
                 </td>
                 <td>&zwnj;Displays the window menu with options such as 'Always on Top' and 'Minimize' and 'Maximize'
-                  and above commands.&zwnj;</td>
+                  and above commands&zwnj;</td>
               </tr>
               <tr>
                 <td>
@@ -1465,7 +1529,7 @@
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Left&zwnj;&nbsp;</b>
                 </td>
-                <td>&zwnj;Place window on left side of screen.&zwnj;</td>
+                <td>&zwnj;Place window on left side of screen&zwnj;</td>
               </tr>
               <tr>
                 <td>
@@ -1474,152 +1538,139 @@
                   <i class="material-icons">&#xE145;</i>
                   <b class="btn btn-xs disabled">&zwnj;Right&zwnj;&nbsp;</b>
                 </td>
-                <td>&zwnj;Place window on right side of screen.&zwnj;</td>
+                <td>&zwnj;Place window on right side of screen&zwnj;</td>
+              </tr>
+              <tr>
+                <td>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Up&zwnj;&nbsp;</b>
+                </td>
+                <td>&zwnj;Place window on top of screen&zwnj;</td>
+              </tr>
+              <tr>
+                <td>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Down&zwnj;&nbsp;</b>
+                </td>
+                <td>&zwnj;Place window on bottom of screen&zwnj;</td>
+              </tr>
+              <tr>
+                <td>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Shift&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Left&zwnj;&nbsp;</b>
+                </td>
+                <td>&zwnj;Move window to left monitor&zwnj;</td>
+              </tr>
+              <tr>
+                <td>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Shift&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Right&zwnj;&nbsp;</b>
+                </td>
+                <td>&zwnj;Move window to right monitor&zwnj;</td>
+              </tr>
+              <tr>
+                <td>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Shift&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Up&zwnj;&nbsp;</b>
+                </td>
+                <td>&zwnj;Move window to up monitor&zwnj;</td>
+              </tr>
+              <tr>
+                <td>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Shift&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Down&zwnj;&nbsp;</b>
+                </td>
+                <td>&zwnj;Move window to down monitor&zwnj;</td>
               </tr>
               <tr class="1904 hidden">
                 <td>
                   <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
                       src="img/welcome/super-key.svg"></b>&nbsp;
                   <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">&zwnj;1&zwnj;&nbsp;</b>
+                  <b class="btn btn-xs disabled">&zwnj;Up&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Left&zwnj;&nbsp;</b>
                 </td>
-                <td>&zwnj;Quarter tiling: top left.&zwnj;</td>
+                <td>&zwnj;Quarter tiling: top left&zwnj;</td>
               </tr>
               <tr class="1904 hidden">
                 <td>
                   <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
                       src="img/welcome/super-key.svg"></b>&nbsp;
                   <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">&zwnj;2&zwnj;&nbsp;</b>
+                  <b class="btn btn-xs disabled">&zwnj;Up&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Right&zwnj;&nbsp;</b>
                 </td>
-                <td>&zwnj;Quarter tiling: top right.&zwnj;</td>
+                <td>&zwnj;Quarter tiling: top right&zwnj;</td>
               </tr>
               <tr class="1904 hidden">
                 <td>
                   <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
                       src="img/welcome/super-key.svg"></b>&nbsp;
                   <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">&zwnj;3&zwnj;&nbsp;</b>
+                  <b class="btn btn-xs disabled">&zwnj;Down&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Left&zwnj;&nbsp;</b>
                 </td>
-                <td>&zwnj;Quarter tiling: bottom left.&zwnj;</td>
+                <td>&zwnj;Quarter tiling: bottom left&zwnj;</td>
               </tr>
               <tr class="1904 hidden">
                 <td>
                   <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
                       src="img/welcome/super-key.svg"></b>&nbsp;
                   <i class="material-icons">&#xE145;</i>
-                  <b class="btn btn-xs disabled">&zwnj;4&zwnj;&nbsp;</b>
+                  <b class="btn btn-xs disabled">&zwnj;Down&zwnj;&nbsp;</b>
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled" data-toggle="tooltip" data-placement="top" title="Super Key"><img
+                      src="img/welcome/super-key.svg"></b>&nbsp;
+                  <i class="material-icons">&#xE145;</i>
+                  <b class="btn btn-xs disabled">&zwnj;Right&zwnj;&nbsp;</b>
                 </td>
-                <td>&zwnj;Quarter tiling: bottom right.&zwnj;</td>
+                <td>&zwnj;Quarter tiling: bottom right&zwnj;</td>
               </tr>
-            </table>
-            <div class="1904 hidden">
+              </table>
               <hr>
-              <h3>&zwnj;Window shortcuts - numeric keypad&zwnj;</h3>
-              <p>&zwnj;Tiling shortcuts on the numeric keypad.&zwnj;</p>
-              <table class="shortcuts">
-                <tr>
-                  <td>
-                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;7&zwnj;&nbsp;</b>
-                  </td>
-                  <td>&zwnj;Quarter top left.&zwnj;</td>
-                </tr>
-                <tr>
-                  <td>
-                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;9&zwnj;&nbsp;</b>
-                  </td>
-                  <td>&zwnj;Quarter top right.&zwnj;</td>
-                </tr>
-                <tr>
-                  <td>
-                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;3&zwnj;&nbsp;</b>
-                  </td>
-                  <td>&zwnj;Quarter bottom right.&zwnj;</td>
-                </tr>
-                <tr>
-                  <td>
-                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;1&zwnj;&nbsp;</b>
-                  </td>
-                  <td>&zwnj;Quarter bottom left.&zwnj;</td>
-                </tr>
-                <tr>
-                  <td>
-                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;8&zwnj;&nbsp;</b>
-                  </td>
-                  <td>&zwnj;Half top.&zwnj;</td>
-                </tr>
-                <tr>
-                  <td>
-                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;6&zwnj;&nbsp;</b>
-                  </td>
-                  <td>&zwnj;Half right.&zwnj;</td>
-                </tr>
-                <tr>
-                  <td>
-                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;2&zwnj;&nbsp;</b>
-                  </td>
-                  <td>&zwnj;Half bottom.&zwnj;</td>
-                </tr>
-                <tr>
-                  <td>
-                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;4&zwnj;&nbsp;</b>
-                  </td>
-                  <td>&zwnj;Half left.&zwnj;</td>
-                </tr>
-                <tr>
-                  <td>
-                    <b class="btn btn-xs disabled">&zwnj;Ctrl&zwnj;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;Alt&zwnj;&nbsp;</b>
-                    <i class="material-icons">&#xE145;</i>
-                    <b class="btn btn-xs disabled">&zwnj;5&zwnj;&nbsp;</b>
-                  </td>
-                  <td>&zwnj;Toggle maximize.&zwnj;</td>
-                </tr>
-
                 <div class="1904 hidden">
+                <table>
                   <tr>
                     <td>
                         <div align="center"><a class="btn btn-inverse" onclick="cmd('keyboard');cmd('')"
                           onclick="smoothFade('','#tweak-hint')">
-                          &nbsp;<img class="button-icon" src="img/applications/raven-settings.png" />&nbsp;<span
+                          &nbsp;<img class="button-icon" src="img/applications/control-settings.svg" />&nbsp;<span
                             class="button-text">&zwnj;Update shortcuts in the Settings App&zwnj;</span>&nbsp;
                         </a></div>
                     </td>
                   </tr>
-                </div>
               </table>
             </div>
             <div class="center">
@@ -1629,7 +1680,6 @@
             </div>
           </div>
         </div>
-      </div>
 
       <!-- What's inside my computer? -->
       <div id="specs" class="topicContents">
